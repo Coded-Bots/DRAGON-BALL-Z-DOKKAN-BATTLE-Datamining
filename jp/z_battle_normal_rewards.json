@@ -6258,5 +6258,55 @@
         "quantity": 3,
         "updated_at": "2022-02-19 20:20:08",
         "z_battle_normal_reward_table_id": 816
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-03 09:32:32",
+        "id": 847,
+        "item_id": 500,
+        "item_type": "TrainingItem",
+        "quantity": 1,
+        "updated_at": "2022-03-03 09:32:32",
+        "z_battle_normal_reward_table_id": 823
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-03 09:32:32",
+        "id": 848,
+        "item_id": 501,
+        "item_type": "TrainingItem",
+        "quantity": 1,
+        "updated_at": "2022-03-03 09:32:32",
+        "z_battle_normal_reward_table_id": 824
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-03 09:32:32",
+        "id": 849,
+        "item_id": 502,
+        "item_type": "TrainingItem",
+        "quantity": 1,
+        "updated_at": "2022-03-03 09:32:32",
+        "z_battle_normal_reward_table_id": 825
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-03 09:32:32",
+        "id": 850,
+        "item_id": 503,
+        "item_type": "TrainingItem",
+        "quantity": 1,
+        "updated_at": "2022-03-03 09:32:32",
+        "z_battle_normal_reward_table_id": 826
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-03 09:32:32",
+        "id": 851,
+        "item_id": 504,
+        "item_type": "TrainingItem",
+        "quantity": 1,
+        "updated_at": "2022-03-03 09:32:32",
+        "z_battle_normal_reward_table_id": 827
     }
 ]

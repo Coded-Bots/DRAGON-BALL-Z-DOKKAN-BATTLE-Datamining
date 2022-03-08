@@ -748,5 +748,15 @@
         "special_atk": 10,
         "updated_at": "2022-02-19 20:20:08",
         "z_battle_stage_id": 76
+    },
+    {
+        "atk": 4000,
+        "created_at": "2022-02-25 13:22:19",
+        "def": 10000,
+        "hp": 500000,
+        "id": 97,
+        "special_atk": 5,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_stage_id": 78
     }
 ]
