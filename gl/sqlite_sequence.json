@@ -1,0 +1,718 @@
+[
+    {
+        "name": "act_cure_schedules",
+        "seq": 1
+    },
+    {
+        "name": "act_items",
+        "seq": 3
+    },
+    {
+        "name": "active_skill_sets",
+        "seq": 116
+    },
+    {
+        "name": "active_skills",
+        "seq": 129
+    },
+    {
+        "name": "area_conditions",
+        "seq": 13
+    },
+    {
+        "name": "area_icons",
+        "seq": 201
+    },
+    {
+        "name": "area_recommends",
+        "seq": 2
+    },
+    {
+        "name": "area_tabs",
+        "seq": 999
+    },
+    {
+        "name": "areas",
+        "seq": 10001
+    },
+    {
+        "name": "awakening_items",
+        "seq": 900005
+    },
+    {
+        "name": "battle_params",
+        "seq": 2492
+    },
+    {
+        "name": "bgm_schedules",
+        "seq": 3
+    },
+    {
+        "name": "boost_schedules",
+        "seq": 3
+    },
+    {
+        "name": "budokai_box_ranking_reward_ranges",
+        "seq": 9231201
+    },
+    {
+        "name": "budokai_box_ranking_rewards",
+        "seq": 92336
+    },
+    {
+        "name": "budokai_box_rankings",
+        "seq": 9231
+    },
+    {
+        "name": "budokai_help_bodies",
+        "seq": 58
+    },
+    {
+        "name": "budokai_help_categories",
+        "seq": 4
+    },
+    {
+        "name": "budokai_helps",
+        "seq": 21
+    },
+    {
+        "name": "budokai_leagues",
+        "seq": 9233
+    },
+    {
+        "name": "budokai_mission_rewards",
+        "seq": 932045
+    },
+    {
+        "name": "budokai_missions",
+        "seq": 923078
+    },
+    {
+        "name": "budokai_motivation_unlock_conditions",
+        "seq": 92312
+    },
+    {
+        "name": "budokai_motivations",
+        "seq": 92312
+    },
+    {
+        "name": "budokai_opponent_attack_weight_lines",
+        "seq": 923412
+    },
+    {
+        "name": "budokai_opponent_attack_weights",
+        "seq": 9234
+    },
+    {
+        "name": "budokai_progress_selifs",
+        "seq": 9234
+    },
+    {
+        "name": "budokai_ranking_gift_sets",
+        "seq": 92320
+    },
+    {
+        "name": "budokai_ranking_gifts",
+        "seq": 9322401
+    },
+    {
+        "name": "budokai_ranks",
+        "seq": 92312
+    },
+    {
+        "name": "budokais",
+        "seq": 923
+    },
+    {
+        "name": "card_active_skills",
+        "seq": 171
+    },
+    {
+        "name": "card_awakening_routes",
+        "seq": 10004
+    },
+    {
+        "name": "card_awakening_sets",
+        "seq": 99999
+    },
+    {
+        "name": "card_awakenings",
+        "seq": 901005
+    },
+    {
+        "name": "card_card_categories",
+        "seq": 83000191004
+    },
+    {
+        "name": "card_categories",
+        "seq": 80
+    },
+    {
+        "name": "card_costume_conditions",
+        "seq": 6
+    },
+    {
+        "name": "card_costumes",
+        "seq": 3
+    },
+    {
+        "name": "card_decorations",
+        "seq": 273
+    },
+    {
+        "name": "card_exps",
+        "seq": 2340
+    },
+    {
+        "name": "card_growths",
+        "seq": 1310
+    },
+    {
+        "name": "card_motions",
+        "seq": 91580
+    },
+    {
+        "name": "card_specials",
+        "seq": 9228
+    },
+    {
+        "name": "card_sticker_decoration_relations",
+        "seq": 9346
+    },
+    {
+        "name": "card_sticker_items",
+        "seq": 14
+    },
+    {
+        "name": "card_training_field_exp_up_probs",
+        "seq": 3
+    },
+    {
+        "name": "card_training_skill_lv_up_probs",
+        "seq": 6
+    },
+    {
+        "name": "card_training_skill_lvs",
+        "seq": 16
+    },
+    {
+        "name": "card_unique_info_set_relations",
+        "seq": 499
+    },
+    {
+        "name": "card_unique_infos",
+        "seq": 10104
+    },
+    {
+        "name": "cards",
+        "seq": 83000191
+    },
+    {
+        "name": "chain_battle_help_bodies",
+        "seq": 30
+    },
+    {
+        "name": "chain_battle_help_categories",
+        "seq": 3
+    },
+    {
+        "name": "chain_battle_helps",
+        "seq": 15
+    },
+    {
+        "name": "chain_battle_mission_periods",
+        "seq": 80
+    },
+    {
+        "name": "chain_battle_mission_rewards",
+        "seq": 1751
+    },
+    {
+        "name": "chain_battle_missions",
+        "seq": 336
+    },
+    {
+        "name": "chain_battle_ranking_gift_sets",
+        "seq": 144
+    },
+    {
+        "name": "chain_battle_ranking_gifts",
+        "seq": 900009
+    },
+    {
+        "name": "characters",
+        "seq": 1247
+    },
+    {
+        "name": "collection_cards",
+        "seq": 3001150
+    },
+    {
+        "name": "collection_categories",
+        "seq": 9
+    },
+    {
+        "name": "collection_uniques",
+        "seq": 551
+    },
+    {
+        "name": "db_stories",
+        "seq": 1
+    },
+    {
+        "name": "dialog_bodies",
+        "seq": 3010
+    },
+    {
+        "name": "dialogs",
+        "seq": 3010
+    },
+    {
+        "name": "effect_packs",
+        "seq": 1500003
+    },
+    {
+        "name": "enemy_ai_conditions",
+        "seq": 99999
+    },
+    {
+        "name": "enemy_skills",
+        "seq": 1000807
+    },
+    {
+        "name": "equipment_skill_items",
+        "seq": 1455
+    },
+    {
+        "name": "equipment_skill_limitations",
+        "seq": 52
+    },
+    {
+        "name": "equipment_skills",
+        "seq": 2513
+    },
+    {
+        "name": "eventkagi_items",
+        "seq": 101
+    },
+    {
+        "name": "exchangeable_items",
+        "seq": 3
+    },
+    {
+        "name": "forced_scripts",
+        "seq": 2175
+    },
+    {
+        "name": "help_bodies",
+        "seq": 90104
+    },
+    {
+        "name": "help_categories",
+        "seq": 12
+    },
+    {
+        "name": "helps",
+        "seq": 901
+    },
+    {
+        "name": "item_card_properties",
+        "seq": 10
+    },
+    {
+        "name": "leader_skills",
+        "seq": 9999999
+    },
+    {
+        "name": "level_bgs",
+        "seq": 2004
+    },
+    {
+        "name": "link_skill_efficacies",
+        "seq": 10041001
+    },
+    {
+        "name": "link_skill_lvs",
+        "seq": 100410
+    },
+    {
+        "name": "link_skills",
+        "seq": 1004
+    },
+    {
+        "name": "marquees",
+        "seq": 902
+    },
+    {
+        "name": "mission_board_campaigns",
+        "seq": 1001
+    },
+    {
+        "name": "mission_boards",
+        "seq": 5
+    },
+    {
+        "name": "mission_categories",
+        "seq": 900011
+    },
+    {
+        "name": "mission_category_rewards",
+        "seq": 900011
+    },
+    {
+        "name": "mission_periods",
+        "seq": 911459
+    },
+    {
+        "name": "mission_rewards",
+        "seq": 9377005
+    },
+    {
+        "name": "missions",
+        "seq": 51500233
+    },
+    {
+        "name": "optimal_awakening_growths",
+        "seq": 1451
+    },
+    {
+        "name": "passive_skill_set_relations",
+        "seq": 901504
+    },
+    {
+        "name": "passive_skill_sets",
+        "seq": 9002
+    },
+    {
+        "name": "passive_skills",
+        "seq": 26001501
+    },
+    {
+        "name": "points",
+        "seq": 10000003
+    },
+    {
+        "name": "potential_boards",
+        "seq": 225
+    },
+    {
+        "name": "potential_event_selection_tables",
+        "seq": 25
+    },
+    {
+        "name": "potential_event_selections",
+        "seq": 54
+    },
+    {
+        "name": "potential_events",
+        "seq": 133
+    },
+    {
+        "name": "potential_items",
+        "seq": 84
+    },
+    {
+        "name": "potential_skill_lv_values",
+        "seq": 1174
+    },
+    {
+        "name": "potential_skills",
+        "seq": 7
+    },
+    {
+        "name": "potential_square_condition_set_relations",
+        "seq": 2505
+    },
+    {
+        "name": "potential_square_condition_sets",
+        "seq": 788
+    },
+    {
+        "name": "potential_square_conditions",
+        "seq": 655
+    },
+    {
+        "name": "potential_square_relations",
+        "seq": 30200
+    },
+    {
+        "name": "potential_squares",
+        "seq": 22500335
+    },
+    {
+        "name": "quest_category_bonus_groups",
+        "seq": 1
+    },
+    {
+        "name": "quest_category_bonus_rarity_tables",
+        "seq": 100
+    },
+    {
+        "name": "quest_category_bonuses",
+        "seq": 175003
+    },
+    {
+        "name": "quests",
+        "seq": 999999
+    },
+    {
+        "name": "rank_ranges",
+        "seq": 4
+    },
+    {
+        "name": "rank_statuses",
+        "seq": 999
+    },
+    {
+        "name": "related_card_categories",
+        "seq": 1000613
+    },
+    {
+        "name": "related_link_skills",
+        "seq": 1435000
+    },
+    {
+        "name": "related_passive_skill_sets",
+        "seq": 1746047
+    },
+    {
+        "name": "rmbattle_bgm_patterns",
+        "seq": 1
+    },
+    {
+        "name": "rmbattle_help_bodies",
+        "seq": 24
+    },
+    {
+        "name": "rmbattle_help_categories",
+        "seq": 999
+    },
+    {
+        "name": "rmbattle_helps",
+        "seq": 9
+    },
+    {
+        "name": "rmbattle_mission_rewards",
+        "seq": 922056
+    },
+    {
+        "name": "rmbattle_missions",
+        "seq": 42022
+    },
+    {
+        "name": "sd_arenas",
+        "seq": 28
+    },
+    {
+        "name": "sd_characters",
+        "seq": 2000190
+    },
+    {
+        "name": "sd_help_bodies",
+        "seq": 15
+    },
+    {
+        "name": "sd_help_categories",
+        "seq": 1
+    },
+    {
+        "name": "sd_helps",
+        "seq": 6
+    },
+    {
+        "name": "sd_maps",
+        "seq": 7
+    },
+    {
+        "name": "sd_packs",
+        "seq": 401
+    },
+    {
+        "name": "sd_stages",
+        "seq": 140
+    },
+    {
+        "name": "shops",
+        "seq": 5
+    },
+    {
+        "name": "skill_causalities",
+        "seq": 1277
+    },
+    {
+        "name": "skill_groups",
+        "seq": 40
+    },
+    {
+        "name": "skill_labels",
+        "seq": 2
+    },
+    {
+        "name": "sound_effect_offsets",
+        "seq": 195
+    },
+    {
+        "name": "special_bonuses",
+        "seq": 13
+    },
+    {
+        "name": "special_categories",
+        "seq": 3
+    },
+    {
+        "name": "special_items",
+        "seq": 9999
+    },
+    {
+        "name": "special_sets",
+        "seq": 9999
+    },
+    {
+        "name": "special_views",
+        "seq": 9150
+    },
+    {
+        "name": "specials",
+        "seq": 91002732
+    },
+    {
+        "name": "status_extensions",
+        "seq": 10
+    },
+    {
+        "name": "sub_target_type_sets",
+        "seq": 223
+    },
+    {
+        "name": "sub_target_types",
+        "seq": 288
+    },
+    {
+        "name": "sugoroku_map_puzzle_colors",
+        "seq": 18
+    },
+    {
+        "name": "sugoroku_maps",
+        "seq": 9999992
+    },
+    {
+        "name": "support_films",
+        "seq": 5
+    },
+    {
+        "name": "support_items",
+        "seq": 90001
+    },
+    {
+        "name": "support_memories",
+        "seq": 50002
+    },
+    {
+        "name": "support_memory_skills",
+        "seq": 500023
+    },
+    {
+        "name": "tips",
+        "seq": 164
+    },
+    {
+        "name": "title_screens",
+        "seq": 41
+    },
+    {
+        "name": "training_fields",
+        "seq": 13
+    },
+    {
+        "name": "training_items",
+        "seq": 9105
+    },
+    {
+        "name": "transformation_descriptions",
+        "seq": 281
+    },
+    {
+        "name": "treasure_items",
+        "seq": 91002
+    },
+    {
+        "name": "tutorial_phases",
+        "seq": 9000
+    },
+    {
+        "name": "tutorial_processes",
+        "seq": 90000
+    },
+    {
+        "name": "tutorial_steps",
+        "seq": 9000
+    },
+    {
+        "name": "ultimate_specials",
+        "seq": 22
+    },
+    {
+        "name": "wallpaper_items",
+        "seq": 23
+    },
+    {
+        "name": "worlds",
+        "seq": 1001
+    },
+    {
+        "name": "z_battle_check_points",
+        "seq": 446
+    },
+    {
+        "name": "z_battle_enemies",
+        "seq": 94
+    },
+    {
+        "name": "z_battle_enemy_card_escalations",
+        "seq": 285
+    },
+    {
+        "name": "z_battle_enemy_skill_escalations",
+        "seq": 2047
+    },
+    {
+        "name": "z_battle_enemy_status_escalations",
+        "seq": 2505
+    },
+    {
+        "name": "z_battle_first_reward_level_ranges",
+        "seq": 2375
+    },
+    {
+        "name": "z_battle_first_rewards",
+        "seq": 10103
+    },
+    {
+        "name": "z_battle_normal_reward_tables",
+        "seq": 725
+    },
+    {
+        "name": "z_battle_normal_rewards",
+        "seq": 749
+    },
+    {
+        "name": "z_battle_powerup_thresholds",
+        "seq": 84
+    },
+    {
+        "name": "z_battle_powerup_views",
+        "seq": 7
+    },
+    {
+        "name": "z_battle_stage_levelup_views",
+        "seq": 5
+    },
+    {
+        "name": "z_battle_stage_views",
+        "seq": 84
+    },
+    {
+        "name": "z_battle_stages",
+        "seq": 66
+    }
+]

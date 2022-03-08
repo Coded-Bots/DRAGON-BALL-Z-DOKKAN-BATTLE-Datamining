@@ -1,0 +1,1199 @@
+[
+    {
+        "chain_battle_id": 1,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 1,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 1,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 2,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 1,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 3,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 1,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 4,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 1,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 5,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 1,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 6,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 1,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 7,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 1,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 8,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 1,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 9,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 2,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 10,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 2,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 11,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 2,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 12,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 2,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 13,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 2,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 14,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 2,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 15,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 2,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 16,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 2,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 17,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 2,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 18,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 3,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 19,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 3,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 20,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 3,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 21,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 3,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 22,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 3,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 23,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 3,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 24,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 3,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 25,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 3,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 26,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 3,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 27,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 4,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 28,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 4,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 29,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 4,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 30,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 4,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 31,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 4,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 32,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 4,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 33,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 4,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 34,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 4,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 35,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 4,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 36,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 5,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 37,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 5,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 38,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 5,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 39,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 5,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 40,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 5,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 41,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 5,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 42,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 5,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 43,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 5,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 44,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 5,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 45,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 6,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 46,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 6,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 47,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 6,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 48,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 6,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 49,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 6,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 50,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 6,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 51,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 6,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 52,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 6,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 53,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 6,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 54,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 7,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 55,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 7,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 56,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 7,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 57,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 7,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 58,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 7,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 59,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 7,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 60,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 7,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 61,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 7,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 62,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 7,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 63,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 8,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 64,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 8,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 65,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 8,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 66,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 8,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 67,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 8,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 68,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 8,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 69,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 8,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 70,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 8,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 71,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 8,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 72,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 9,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 73,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 9,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 74,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 9,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 75,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 9,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 76,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 9,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 77,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 9,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 78,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 9,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 79,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 9,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 80,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 9,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 81,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 10,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 82,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 10,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 83,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 10,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 84,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 10,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 85,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 10,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 86,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 10,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 87,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 10,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 88,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 10,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 89,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 10,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 90,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 11,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 91,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 11,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 92,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 11,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 93,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 11,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 94,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 11,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 95,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 11,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 96,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 11,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 97,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 11,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 98,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 11,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 99,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 12,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 100,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 12,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 101,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 12,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 102,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 12,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 103,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 12,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 104,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 12,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 105,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 12,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 106,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 12,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 107,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 12,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 108,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 13,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 109,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 13,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 110,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 13,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 111,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 13,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 112,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 13,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 113,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 13,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 114,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 13,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 115,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 13,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 116,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 13,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 117,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 14,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 118,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 14,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 119,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 14,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 120,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 14,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 121,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 14,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 122,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 14,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 123,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 14,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 124,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 14,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 125,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 14,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 126,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 15,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 127,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 15,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 128,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 15,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 129,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 15,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 130,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 15,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 131,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 15,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 132,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 15,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 133,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 15,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 134,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 15,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 135,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 16,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 136,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 16,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 137,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 16,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 138,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 16,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 139,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 16,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 140,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 16,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 141,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 16,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 142,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 16,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 143,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 16,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 144,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 17,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 145,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 17,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 146,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 17,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 147,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 17,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 148,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 17,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 149,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 17,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 150,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 17,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 151,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 17,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 152,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 17,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 153,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 18,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 154,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 18,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 155,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 18,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 156,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 18,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 157,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 18,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 158,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 18,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 159,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 18,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 160,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 18,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 161,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 18,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 162,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 19,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 163,
+        "percentile": 1,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 19,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 164,
+        "percentile": 3,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 19,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 165,
+        "percentile": 5,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 19,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 166,
+        "percentile": 10,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 19,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 167,
+        "percentile": 20,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 19,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 168,
+        "percentile": 35,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 19,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 169,
+        "percentile": 50,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 19,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 170,
+        "percentile": 75,
+        "updated_at": "2022-02-21 02:05:29"
+    },
+    {
+        "chain_battle_id": 19,
+        "created_at": "2022-02-21 02:05:29",
+        "id": 171,
+        "percentile": 100,
+        "updated_at": "2022-02-21 02:05:29"
+    }
+]

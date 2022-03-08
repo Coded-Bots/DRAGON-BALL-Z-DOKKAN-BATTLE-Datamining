@@ -1,0 +1,712 @@
+[
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 2,
+        "name": "イベント関連",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": null,
+        "priority": 8,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 3,
+        "name": "極限Zバトル",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": null,
+        "priority": 7,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 8,
+        "name": "冒険ドッカンストーリー",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": null,
+        "priority": 2,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 9,
+        "name": "特別称号",
+        "open_at": "2022-01-29 06:00:00",
+        "parent_category_id": null,
+        "priority": 1,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30001,
+        "name": "最強の奥義",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3000100,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30002,
+        "name": "破壊と殺戮の超戦士",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3000200,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30003,
+        "name": "ナメック星編",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3000300,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30004,
+        "name": "帝王の執念",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3000400,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30005,
+        "name": "親子三大かめはめ波",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3000500,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30006,
+        "name": "万物の凌駕",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3000600,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30007,
+        "name": "究極パワー放出",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3000700,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30009,
+        "name": "ナメック星人としての闘い",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3000900,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30011,
+        "name": "心なき破壊衝動",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3001100,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30012,
+        "name": "振り下ろされた罰",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3001200,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30013,
+        "name": "戦闘民族の真価",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3001300,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30014,
+        "name": "地獄の羅刹鬼",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3001400,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30015,
+        "name": "流刑のサイヤ人",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3001500,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30016,
+        "name": "絶対無敵の戦士",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3001600,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30017,
+        "name": "勇気の覚醒",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3001700,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30018,
+        "name": "サイヤを継承する少年",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3001800,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30020,
+        "name": "正義の死神大暴れ",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3002000,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30021,
+        "name": "親子ギャリック砲",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3002100,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30022,
+        "name": "復讐の焔",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3002200,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30023,
+        "name": "漆黒の脅威",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3002300,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30024,
+        "name": "恐怖の嵐",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3002400,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30025,
+        "name": "絶望へのカウントダウン",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3002500,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30026,
+        "name": "終わりなき恐怖",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3002600,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30027,
+        "name": "激闘編",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3002700,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30028,
+        "name": "地獄へのいざない",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3002800,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30030,
+        "name": "進化を遂げた一撃",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3003000,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30031,
+        "name": "絶望のマイナスエネルギー",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3003100,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30032,
+        "name": "比類なき黄金の気",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3003200,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30033,
+        "name": "絶対神の憤怒",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3003300,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30034,
+        "name": "宿命のライバル編",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3003400,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30035,
+        "name": "極まりしブルーの力",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3003500,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30036,
+        "name": "戦闘民族の熱き思い",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3003600,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30037,
+        "name": "希望と願いの剣",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3003700,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30038,
+        "name": "薔薇色に染まる超サイヤ人",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3003800,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30039,
+        "name": "第6宇宙の女戦士編",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3003900,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30040,
+        "name": "伝説を超えた進化形態",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3004000,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30041,
+        "name": "プライド・トルーパーズ",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3004100,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30042,
+        "name": "究極の人造人間",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3004200,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30043,
+        "name": "全てを超える魔人",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3004300,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30044,
+        "name": "暗黒の意思",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3004400,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30045,
+        "name": "悪を砕く光",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3004500,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30046,
+        "name": "邪悪な侵犯",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3004600,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30047,
+        "name": "宿命のライバル編2",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3004700,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30048,
+        "name": "超次元の極意",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3004800,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30049,
+        "name": "奇跡の決着",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3004900,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30050,
+        "name": "打倒超戦士編",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3005000,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30051,
+        "name": "宇宙一の大爆走",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3005100,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30052,
+        "name": "不滅の最凶戦士",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3005200,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30053,
+        "name": "幻魔人が眠る身体",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3005300,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30054,
+        "name": "宿命のライバル編3",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3005400,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30055,
+        "name": "地獄の幕開け",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3005500,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30056,
+        "name": "全身全霊のかめはめ波",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3005600,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30057,
+        "name": "驚愕の超変身",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3005700,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30058,
+        "name": "凍てつく威光",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3005800,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30059,
+        "name": "ヒロインコレクション",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3005900,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30060,
+        "name": "凄絶な光の彼方に",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3006000,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30061,
+        "name": "熱く震える力",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3006100,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30062,
+        "name": "宇宙に輝く命",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3006200,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30064,
+        "name": "殺し屋の極意",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3006400,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30067,
+        "name": "ふたりめの超サイヤ人",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3006700,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30068,
+        "name": "絶望に立ち向かう力",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3006800,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30071,
+        "name": "希望の星",
+        "open_at": "2022-01-11 03:00:00",
+        "parent_category_id": 3,
+        "priority": 3007100,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30072,
+        "name": "宿命のライバル編4",
+        "open_at": "2022-02-10 08:00:00",
+        "parent_category_id": 3,
+        "priority": 3007200,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30073,
+        "name": "超サイヤ人4ゴジータVS超一星龍",
+        "open_at": "2022-02-10 08:00:00",
+        "parent_category_id": 3,
+        "priority": 3007300,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30074,
+        "name": "ふたつの力の融合",
+        "open_at": "2022-02-22 08:00:00",
+        "parent_category_id": 3,
+        "priority": 3007400,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30075,
+        "name": "合体する超パワー",
+        "open_at": "2022-02-22 08:00:00",
+        "parent_category_id": 3,
+        "priority": 3007500,
+        "updated_at": "2022-03-01 00:22:14"
+    },
+    {
+        "created_at": "2022-03-01 00:22:14",
+        "description": null,
+        "id": 30076,
+        "name": "宿命のライバル編5",
+        "open_at": "2022-03-01 08:00:00",
+        "parent_category_id": 3,
+        "priority": 3007600,
+        "updated_at": "2022-03-01 00:22:14"
+    }
+]

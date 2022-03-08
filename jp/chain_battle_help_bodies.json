@@ -1,0 +1,242 @@
+[
+    {
+        "chain_battle_help_id": 1,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼参加条件\n以下のキャラクターを所持していることで\n参加可能になります。\n・{color: #FFFF00}超属性{color}のZ覚醒済みキャラクター{color: #FFFF00}１０体{color}\n・{color: #FFFF00}極属性{color}のZ覚醒済みキャラクター{color: #FFFF00}１０体{color}",
+        "id": 1,
+        "image_path": null,
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 1,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼参加可能キャラクター\nチェインバトルでは\n{color: #FFFF00}Z覚醒済みのキャラクターのみ参加可能{color}です。\nレアリティがR、SR、SSRでも、\nZ覚醒済みであれば参加可能です。\n\n※キャラクター所持数が上限を超えている場合は\n　チェインバトルをプレイすることができません。\n※参加条件を満たさない場合は、一度参加した後でも\n　参加不可となりますのでご注意ください。",
+        "id": 2,
+        "image_path": "images/help/chainbattle_help_02a.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 2,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼バトルエナジーとは\nチェインバトルではACTを消費しないかわりに\n「バトルエナジー」を消費します。\nバトルエナジーは最大で５まで保有することができ\n３時間に１回復します。",
+        "id": 3,
+        "image_path": "images/help/chainbattle_help_03a.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 2,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼龍石消費でバトルエナジーを回復\nバトルエナジーが０の時、龍石を１個消費することで\nバトルエナジーを１回復することができます。\nまた、一度使用したサポーターとコネクターを\n再度使用可能になります。\n龍石消費によるバトルエナジー回復は\n１日に最大５回までです。",
+        "id": 4,
+        "image_path": "images/help/chainbattle_help_04.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 3,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼バトルキャラクターとは\n敵と直接対峙するキャラクターです。\nチームのチェインパワーに応じて、\n敵に与えるダメージが変化します。",
+        "id": 5,
+        "image_path": "images/help/chainbattle_help_08.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 3,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "チェインパワーが一定値を超えた「爆裂チェイン状態」で\nサポートバトルで足止めが成功すると、\nバトルキャラクターがフルパワーとなり\n敵に与えるダメージが大きく増加します。\n\n※コネクターに設定しているキャラクターは\n　バトルキャラクターに設定することができません。",
+        "id": 6,
+        "image_path": "images/help/chainbattle_help_09a.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 4,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼チェインパワーとは\n{color: #FFFF00}サポーター{color}と{color: #FFFF00}コネクター{color}の以下の{color: #FFFF00}一致数の多さ{color}に応じて\nチェインパワーが変化します。\n\n・カテゴリ\n・属性\n・リンクスキル\n\nチェインパワーに応じてバトルキャラクターが\n敵に与えるダメージが変化します。",
+        "id": 7,
+        "image_path": "images/help/chainbattle_help_10.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 4,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼爆裂チェイン状態\n超属性、極属性両方のチェインパワーが一定値を超えると\n「爆裂チェイン状態」になります。\n爆裂チェイン状態でサポートバトルの足止めが成功すると\nバトルキャラクターがフルパワーとなり\n敵に与えるダメージが大きく増加します。",
+        "id": 8,
+        "image_path": "images/help/chainbattle_help_11a.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 5,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "チェインバトルをプレイするためには\n{color: #FFFF00}「貸出用サポーター」{color}（超属性10体、極属性10体）\nを設定します。\n\nこの貸出用サポーターは\n他のプレイヤーがチェインバトルを\nプレイする際に使われます。",
+        "id": 9,
+        "image_path": "images/help/chainbattle_help_01.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 5,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "自分がプレイする際には\n「他のプレイヤーが設定したサポーター」を借ります。",
+        "id": 10,
+        "image_path": "images/help/chainbattle_help_25.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 5,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "※サポーターは1日1回ずつしか\n　借りることができません。\n　龍石を消費してバトルエナジーを回復するか\n　0時を過ぎると、また同じサポーターを\n　借りることができます。",
+        "id": 11,
+        "image_path": "images/help/chainbattle_help_12.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 6,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼コネクターとは\nコネクターは自分の所持キャラクターの中から\nサポーターと以下の一致数が多いキャラクターが\n10体表示され、その中から1体選択します。\n\n・カテゴリ\n・属性\n・リンクスキル\n\nサポーターとの一致数が多いほど\n「チェインパワー」が高まります。\n\n※バトルキャラクターに設定しているキャラクターは\n　コネクターに設定することができません。\n※１度コネクターに設定したキャラクターは\n　龍石を消費してバトルエナジーを回復するか\n　0時を過ぎるまで再選択することができません。",
+        "id": 12,
+        "image_path": "images/help/chainbattle_help_15.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 7,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "{color: #FFFF00}敵に有効なキャラクター{color}と\n{color: #FFFF00}敵に有効なカテゴリに属するキャラクター{color}を\nチームに組み込むと、敵に与えるダメージが増加します。\n\n▼敵に有効なキャラクター\nこのキャラクターは選択する際に\nアイコンが赤く光ります。",
+        "id": 13,
+        "image_path": "images/help/chainbattle_help_16.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 7,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼敵に有効なカテゴリに属するキャラクター\nこのキャラクターは選択する際に\nアイコンが青く光ります。",
+        "id": 14,
+        "image_path": "images/help/chainbattle_help_16_2.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 7,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "※特攻キャラクターはイベント開催ごとに変化します。",
+        "id": 15,
+        "image_path": "images/help/chainbattle_help_16_1.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 8,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "ハイスコア（１度のバトルで与えたダメージ）によって\nランキングが決定されます。\nイベント終了時の順位に応じて報酬が決定されます。\n\n※最新の順位は反映までに時間が\n　かかる場合があります。\n※ハイスコアが全く同じだった場合、同率順位とします。",
+        "id": 16,
+        "image_path": "images/help/chainbattle_help_05.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 9,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼バトルログとは\nチェインバトルに関連するログを確認できる機能です。",
+        "id": 17,
+        "image_path": null,
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 9,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼フレンド申請の承認 / 拒否\nチェインバトルのリザルト画面からフレンド申請が\n行われた場合、バトルログにて\n申請の承認 / 拒否の選択が可能です。\n通常のリザルト画面からフレンド申請を行った場合は\nバトルログに表示されません。",
+        "id": 18,
+        "image_path": "images/help/chainbattle_help_19.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 9,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼ホーム画面の通知\nホーム画面に表示される通知をタップすることで\nバトルログ画面を表示することができます。\n通知はバトルログ画面を確認すると消えます。\nまた、スワイプ操作でも消すことができます。",
+        "id": 19,
+        "image_path": "images/help/chainbattle_help_20.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 10,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼NICEとは\n「NICE」はフレンドに送ることができます。\n※ゲストにNICEを送ることはできません。\nNICEを送ると秘宝「結束の印」を獲得することができ、\nNICEを送られた側のユーザーも\n「結束の印」を獲得できます。",
+        "id": 20,
+        "image_path": "images/help/chainbattle_help_06a.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 10,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼NICEの送信方法\nチェインバトルのリザルトや、バトルログから\nNICEを送信することが可能です。\n１度NICEを送信すると、0時を過ぎるまで\n同じ相手に送信することはできません。\nまた、NICEの送信を取り消すことはできません。",
+        "id": 21,
+        "image_path": "images/help/chainbattle_help_18.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 11,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "チェインバトルでは敵味方ともにHPが存在しません。\nそのため、敵から攻撃を受けて\nゲームオーバーになってしまうことはありません。\n\n敵に与えるダメージは以下の条件で変動します。\n\n▼バトル前のチーム編成\n１　バトルキャラクター\n　　・HP、ATK、DEFの値\n　　・必殺技Lvの値",
+        "id": 22,
+        "image_path": "images/help/chainbattle_help_23.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 11,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "２　サポーターとコネクター\n　　・各キャラクターのHP、ATK、DEFの値\n　　・サポーターとコネクターの\n　　　「カテゴリ」「属性」「リンクスキル」の\n　　　一致数\n\n３　敵に有効なキャラクター\n　　・編成すると敵に与えるダメージが増加\n\n４　敵に有効なカテゴリに属するキャラクター\n　　・編成すると敵に与えるダメージが増加\n\n▼バトル中のサポートバトルで選択したキャラクター\n・選択したキャラクターの\n　「カテゴリ」「属性」「リンクスキル」の一致数\n・選択するまでにかかった時間",
+        "id": 23,
+        "image_path": null,
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 12,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "サポートバトルでは、敵の攻撃を食い止めるサポーターを\n３体選択します。",
+        "id": 24,
+        "image_path": "images/help/chainbattle_help_13.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 12,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "8体のサポーターから\n・カテゴリ\n・属性\n・リンクスキル\nの一致数が多いキャラクターを3体選ぶと\n敵の攻撃を足止めすることができます。\n\n足止めに成功すると、\nバトルキャラクターが敵に与えるダメージが増加しますが\n一致数が少ない場合は足止め失敗となり、\n敵に与えるダメージが少なくなります。",
+        "id": 25,
+        "image_path": "images/help/chainbattle_help_14.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 12,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼時間制限\nサポートバトルには時間制限があります。\n10秒以内に３体を選択できなかった場合は\n自動的にランダムに３体選択されます。\n３体選択する時間が短ければ短いほど\n微量ですが敵に与えるダメージが増加します。",
+        "id": 26,
+        "image_path": "images/help/chainbattle_help_22b.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 12,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "▼ガイド表示\n５秒経過時に３体選択していない場合は、\n表示されているサポーターが光ります。\n\nその際、キャラクターを１体選択していると\n選択しているキャラクターと\n「カテゴリ」「属性」「リンクスキル」の一致数が\n多いキャラクター４体が光ります。\nまた、キャラクターを２体選択していると\n一致数が多いキャラクター２体が光ります。",
+        "id": 27,
+        "image_path": null,
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 13,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "特定の条件を満たすことで\n「ミッション報酬」を獲得することができます。\n\nミッション達成条件や報酬内容は\nTOP画面にある「ミッション」より\n確認することができます。",
+        "id": 28,
+        "image_path": "images/help/chainbattle_help_07.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 14,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "以下の条件達成後に獲得することができます。\n\n・チェインバトルに出撃する\n・貸出用サポーターが他のプレイヤーに使われる\n・NICEを送る\n・NICEが送られる\n・ミッションを達成する\n\n獲得した秘宝「結束の印」は秘宝交換所で\nスキル玉など様々なアイテムと交換することが可能です。",
+        "id": 29,
+        "image_path": "images/help/chainbattle_help_treasure.png",
+        "updated_at": "2020-04-30 02:02:57"
+    },
+    {
+        "chain_battle_help_id": 15,
+        "created_at": "2020-04-30 02:02:57",
+        "description": "イベント終了時のハイスコアによってランキングが決定し\n順位に応じたランキング報酬が配布されます。\nランキング報酬はランキング画面右下の\n「報酬一覧」を選択することで確認できます。\n報酬配布のタイミングは開催ごとによって異なるため、\n開催時の「お知らせ」をご確認ください。",
+        "id": 30,
+        "image_path": "images/help/chainbattle_help_24.png",
+        "updated_at": "2020-04-30 02:02:57"
+    }
+]

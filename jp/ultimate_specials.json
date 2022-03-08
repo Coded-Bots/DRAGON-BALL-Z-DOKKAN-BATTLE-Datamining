@@ -1,0 +1,227 @@
+[
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+100%",
+        "id": 2,
+        "increase_rate": 650,
+        "name": "LR超サイヤ人4孫悟空・ベジータ用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージを与える",
+        "id": 3,
+        "increase_rate": 550,
+        "name": "孫悟空(少年期)用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+100%",
+        "id": 4,
+        "increase_rate": 650,
+        "name": "LR悟飯&悟天用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "超特大ダメージを与える\n(技レベル15相当)",
+        "id": 5,
+        "increase_rate": 430,
+        "name": "フリーザ(第二形態)用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+50%",
+        "id": 6,
+        "increase_rate": 600,
+        "name": "LRパーフェクトセル用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージを与える\n(1ターン仲間ATK30%UPあり)",
+        "id": 7,
+        "increase_rate": 520,
+        "name": "SSGSS孫悟空(界王拳)用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+50%",
+        "id": 8,
+        "increase_rate": 600,
+        "name": "SSGSSベジット用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+50%",
+        "id": 9,
+        "increase_rate": 600,
+        "name": "SSGSSゴジータ用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "628%ダメージ",
+        "id": 10,
+        "increase_rate": 628,
+        "name": "トランクス(未来)&マイ(未来)用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+50%",
+        "id": 11,
+        "increase_rate": 600,
+        "name": "孫悟空(身勝手の極意)用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 1,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "敵全体に超極大ダメージ",
+        "id": 12,
+        "increase_rate": 440,
+        "name": "SSGSSベジータ(進化)用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+100%",
+        "id": 13,
+        "increase_rate": 650,
+        "name": "亀仙人用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+50%",
+        "id": 14,
+        "increase_rate": 600,
+        "name": "17号用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+100%",
+        "id": 15,
+        "increase_rate": 650,
+        "name": "超サイヤ人孫悟空(GT)用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+100%",
+        "id": 16,
+        "increase_rate": 650,
+        "name": "超サイヤ人ベジータ(GT)用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージを与える",
+        "id": 17,
+        "increase_rate": 550,
+        "name": "超17号用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+100%",
+        "id": 18,
+        "increase_rate": 650,
+        "name": "桃白白用",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージを与える",
+        "id": 19,
+        "increase_rate": 550,
+        "name": "界王拳",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+30%",
+        "id": 20,
+        "increase_rate": 580,
+        "name": "界王拳",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+50%",
+        "id": 21,
+        "increase_rate": 600,
+        "name": "Wドッカン超サイヤ人孫悟空",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+50%",
+        "id": 22,
+        "increase_rate": 600,
+        "name": "Wドッカンフリーザ(フルパワー)",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージを与える",
+        "id": 23,
+        "increase_rate": 550,
+        "name": "フュージョン(7周年Wドッカン)",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージを与える",
+        "id": 24,
+        "increase_rate": 550,
+        "name": "ウルトラビッグバンかめはめ波(7周年Wドッカン)",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+50%",
+        "id": 25,
+        "increase_rate": 600,
+        "name": "芭蕉扇",
+        "updated_at": "2022-02-16 02:08:29"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2022-02-16 02:08:29",
+        "description": "究極ダメージ+50%",
+        "id": 26,
+        "increase_rate": 600,
+        "name": "願いをこめた元気玉",
+        "updated_at": "2022-02-16 02:08:29"
+    }
+]

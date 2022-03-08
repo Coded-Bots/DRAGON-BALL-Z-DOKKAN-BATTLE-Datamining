@@ -1,0 +1,752 @@
+[
+    {
+        "atk": 1500,
+        "created_at": "2017-11-08 10:30:55",
+        "def": 10000,
+        "hp": 240000,
+        "id": 1,
+        "special_atk": 10,
+        "updated_at": "2017-11-10 07:00:05",
+        "z_battle_stage_id": 1
+    },
+    {
+        "atk": 5000,
+        "created_at": "2017-11-28 04:30:57",
+        "def": 10000,
+        "hp": 240000,
+        "id": 2,
+        "special_atk": 10,
+        "updated_at": "2017-12-06 05:05:58",
+        "z_battle_stage_id": 2
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-01-12 01:44:30",
+        "def": 10000,
+        "hp": 250000,
+        "id": 3,
+        "special_atk": 10,
+        "updated_at": "2018-01-12 01:44:30",
+        "z_battle_stage_id": 3
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-02-13 09:58:42",
+        "def": 10000,
+        "hp": 240000,
+        "id": 4,
+        "special_atk": 10,
+        "updated_at": "2018-02-13 09:58:42",
+        "z_battle_stage_id": 4
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-04-09 09:04:51",
+        "def": 10000,
+        "hp": 240000,
+        "id": 6,
+        "special_atk": 10,
+        "updated_at": "2018-04-09 09:04:51",
+        "z_battle_stage_id": 5
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-04-17 06:17:52",
+        "def": 10000,
+        "hp": 240000,
+        "id": 7,
+        "special_atk": 10,
+        "updated_at": "2018-04-17 06:17:52",
+        "z_battle_stage_id": 6
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-05-21 05:40:26",
+        "def": 10000,
+        "hp": 240000,
+        "id": 8,
+        "special_atk": 10,
+        "updated_at": "2018-05-21 05:40:26",
+        "z_battle_stage_id": 7
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-07-03 01:42:53",
+        "def": 10000,
+        "hp": 500000,
+        "id": 9,
+        "special_atk": 10,
+        "updated_at": "2018-07-03 01:42:53",
+        "z_battle_stage_id": 8
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-07-22 00:44:14",
+        "def": 10000,
+        "hp": 240000,
+        "id": 10,
+        "special_atk": 5,
+        "updated_at": "2018-07-22 00:44:14",
+        "z_battle_stage_id": 9
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-08-17 01:59:47",
+        "def": 10000,
+        "hp": 180000,
+        "id": 12,
+        "special_atk": 5,
+        "updated_at": "2018-08-17 01:59:47",
+        "z_battle_stage_id": 10
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-09-03 01:44:26",
+        "def": 10000,
+        "hp": 240000,
+        "id": 13,
+        "special_atk": 10,
+        "updated_at": "2018-09-03 01:44:26",
+        "z_battle_stage_id": 11
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-09-18 02:29:53",
+        "def": 10000,
+        "hp": 240000,
+        "id": 14,
+        "special_atk": 10,
+        "updated_at": "2018-09-18 02:29:53",
+        "z_battle_stage_id": 12
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-10-23 04:02:40",
+        "def": 10000,
+        "hp": 240000,
+        "id": 15,
+        "special_atk": 10,
+        "updated_at": "2018-10-23 04:02:40",
+        "z_battle_stage_id": 13
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-10-30 07:15:27",
+        "def": 10000,
+        "hp": 240000,
+        "id": 16,
+        "special_atk": 10,
+        "updated_at": "2018-10-30 07:15:27",
+        "z_battle_stage_id": 14
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-12-14 01:56:42",
+        "def": 10000,
+        "hp": 240000,
+        "id": 17,
+        "special_atk": 10,
+        "updated_at": "2018-12-14 01:56:42",
+        "z_battle_stage_id": 15
+    },
+    {
+        "atk": 5000,
+        "created_at": "2018-12-20 07:49:29",
+        "def": 10000,
+        "hp": 240000,
+        "id": 18,
+        "special_atk": 10,
+        "updated_at": "2018-12-20 07:49:29",
+        "z_battle_stage_id": 16
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-01-11 05:17:23",
+        "def": 10000,
+        "hp": 240000,
+        "id": 19,
+        "special_atk": 10,
+        "updated_at": "2019-01-11 05:17:23",
+        "z_battle_stage_id": 17
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-02-05 09:22:37",
+        "def": 10000,
+        "hp": 240000,
+        "id": 20,
+        "special_atk": 10,
+        "updated_at": "2019-02-05 09:22:37",
+        "z_battle_stage_id": 18
+    },
+    {
+        "atk": 2500,
+        "created_at": "2019-02-05 09:22:38",
+        "def": 10000,
+        "hp": 180000,
+        "id": 21,
+        "special_atk": 5,
+        "updated_at": "2019-02-05 09:22:38",
+        "z_battle_stage_id": 19
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-02-14 06:16:46",
+        "def": 10000,
+        "hp": 180000,
+        "id": 22,
+        "special_atk": 5,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_stage_id": 21
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-02-21 05:51:49",
+        "def": 10000,
+        "hp": 240000,
+        "id": 23,
+        "special_atk": 10,
+        "updated_at": "2019-02-21 05:51:49",
+        "z_battle_stage_id": 20
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-03-06 06:15:18",
+        "def": 10000,
+        "hp": 240000,
+        "id": 24,
+        "special_atk": 10,
+        "updated_at": "2019-03-06 06:15:18",
+        "z_battle_stage_id": 22
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-03-26 10:02:57",
+        "def": 10000,
+        "hp": 240000,
+        "id": 25,
+        "special_atk": 10,
+        "updated_at": "2019-03-26 10:02:57",
+        "z_battle_stage_id": 23
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-05-14 02:51:24",
+        "def": 10000,
+        "hp": 240000,
+        "id": 26,
+        "special_atk": 10,
+        "updated_at": "2019-05-14 02:51:24",
+        "z_battle_stage_id": 24
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-05-21 05:38:00",
+        "def": 10000,
+        "hp": 240000,
+        "id": 27,
+        "special_atk": 10,
+        "updated_at": "2019-05-21 05:38:00",
+        "z_battle_stage_id": 25
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-06-05 05:13:01",
+        "def": 10000,
+        "hp": 240000,
+        "id": 28,
+        "special_atk": 10,
+        "updated_at": "2019-06-05 05:13:01",
+        "z_battle_stage_id": 26
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-07-05 12:00:32",
+        "def": 10000,
+        "hp": 180000,
+        "id": 29,
+        "special_atk": 10,
+        "updated_at": "2019-07-05 12:00:32",
+        "z_battle_stage_id": 27
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-07-11 08:07:17",
+        "def": 10000,
+        "hp": 240000,
+        "id": 30,
+        "special_atk": 10,
+        "updated_at": "2019-07-11 08:07:17",
+        "z_battle_stage_id": 28
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-08-06 09:17:39",
+        "def": 10000,
+        "hp": 180000,
+        "id": 31,
+        "special_atk": 10,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_stage_id": 29
+    },
+    {
+        "atk": 1500,
+        "created_at": "2019-09-05 06:57:13",
+        "def": 10000,
+        "hp": 240000,
+        "id": 32,
+        "special_atk": 10,
+        "updated_at": "2019-09-05 06:57:13",
+        "z_battle_stage_id": 30
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-10-08 05:22:23",
+        "def": 10000,
+        "hp": 240000,
+        "id": 33,
+        "special_atk": 10,
+        "updated_at": "2019-10-08 05:22:23",
+        "z_battle_stage_id": 31
+    },
+    {
+        "atk": 1500,
+        "created_at": "2019-11-08 03:20:19",
+        "def": 10000,
+        "hp": 240000,
+        "id": 35,
+        "special_atk": 10,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_stage_id": 32
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-11-26 03:44:04",
+        "def": 10000,
+        "hp": 240000,
+        "id": 36,
+        "special_atk": 10,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_stage_id": 33
+    },
+    {
+        "atk": 5000,
+        "created_at": "2019-12-20 07:03:07",
+        "def": 10000,
+        "hp": 180000,
+        "id": 37,
+        "special_atk": 5,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_stage_id": 34
+    },
+    {
+        "atk": 5000,
+        "created_at": "2020-01-15 11:09:50",
+        "def": 10000,
+        "hp": 240000,
+        "id": 38,
+        "special_atk": 10,
+        "updated_at": "2020-01-15 11:09:50",
+        "z_battle_stage_id": 35
+    },
+    {
+        "atk": 5000,
+        "created_at": "2020-02-17 07:45:32",
+        "def": 10000,
+        "hp": 240000,
+        "id": 39,
+        "special_atk": 10,
+        "updated_at": "2020-02-17 07:45:32",
+        "z_battle_stage_id": 36
+    },
+    {
+        "atk": 5000,
+        "created_at": "2020-03-13 03:58:30",
+        "def": 10000,
+        "hp": 240000,
+        "id": 40,
+        "special_atk": 10,
+        "updated_at": "2020-03-13 03:58:30",
+        "z_battle_stage_id": 37
+    },
+    {
+        "atk": 1500,
+        "created_at": "2020-04-07 13:44:17",
+        "def": 10000,
+        "hp": 240000,
+        "id": 41,
+        "special_atk": 10,
+        "updated_at": "2020-04-07 13:44:17",
+        "z_battle_stage_id": 38
+    },
+    {
+        "atk": 5000,
+        "created_at": "2020-06-04 11:42:55",
+        "def": 10000,
+        "hp": 180000,
+        "id": 42,
+        "special_atk": 5,
+        "updated_at": "2020-06-04 11:42:55",
+        "z_battle_stage_id": 39
+    },
+    {
+        "atk": 5000,
+        "created_at": "2020-06-24 08:39:54",
+        "def": 10000,
+        "hp": 240000,
+        "id": 43,
+        "special_atk": 10,
+        "updated_at": "2020-06-24 08:39:54",
+        "z_battle_stage_id": 40
+    },
+    {
+        "atk": 5000,
+        "created_at": "2020-07-08 09:26:09",
+        "def": 10000,
+        "hp": 180000,
+        "id": 44,
+        "special_atk": 5,
+        "updated_at": "2020-07-08 09:26:09",
+        "z_battle_stage_id": 41
+    },
+    {
+        "atk": 1500,
+        "created_at": "2020-07-20 02:01:32",
+        "def": 10000,
+        "hp": 240000,
+        "id": 45,
+        "special_atk": 10,
+        "updated_at": "2020-07-20 02:01:32",
+        "z_battle_stage_id": 42
+    },
+    {
+        "atk": 5000,
+        "created_at": "2020-09-28 03:18:33",
+        "def": 10000,
+        "hp": 240000,
+        "id": 46,
+        "special_atk": 10,
+        "updated_at": "2020-09-28 03:18:33",
+        "z_battle_stage_id": 43
+    },
+    {
+        "atk": 5000,
+        "created_at": "2020-10-29 01:26:02",
+        "def": 10000,
+        "hp": 240000,
+        "id": 47,
+        "special_atk": 10,
+        "updated_at": "2020-10-29 01:26:02",
+        "z_battle_stage_id": 44
+    },
+    {
+        "atk": 5000,
+        "created_at": "2020-11-26 18:10:36",
+        "def": 10000,
+        "hp": 240000,
+        "id": 48,
+        "special_atk": 10,
+        "updated_at": "2020-11-26 18:10:36",
+        "z_battle_stage_id": 45
+    },
+    {
+        "atk": 5000,
+        "created_at": "2020-12-21 21:39:28",
+        "def": 10000,
+        "hp": 240000,
+        "id": 49,
+        "special_atk": 10,
+        "updated_at": "2020-12-21 21:39:28",
+        "z_battle_stage_id": 46
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-01-05 04:16:27",
+        "def": 10000,
+        "hp": 180000,
+        "id": 50,
+        "special_atk": 5,
+        "updated_at": "2021-01-05 04:16:27",
+        "z_battle_stage_id": 47
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-02-02 21:58:22",
+        "def": 10000,
+        "hp": 240000,
+        "id": 51,
+        "special_atk": 10,
+        "updated_at": "2021-02-02 21:58:22",
+        "z_battle_stage_id": 48
+    },
+    {
+        "atk": 4000,
+        "created_at": "2021-02-11 16:18:36",
+        "def": 10000,
+        "hp": 1100000,
+        "id": 54,
+        "special_atk": 10,
+        "updated_at": "2021-02-11 16:18:36",
+        "z_battle_stage_id": 49
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-02-26 05:06:42",
+        "def": 10000,
+        "hp": 180000,
+        "id": 56,
+        "special_atk": 5,
+        "updated_at": "2021-02-26 05:06:42",
+        "z_battle_stage_id": 50
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-03-03 08:14:25",
+        "def": 10000,
+        "hp": 240000,
+        "id": 59,
+        "special_atk": 10,
+        "updated_at": "2021-03-03 08:14:25",
+        "z_battle_stage_id": 51
+    },
+    {
+        "atk": 4000,
+        "created_at": "2021-03-08 05:38:54",
+        "def": 10000,
+        "hp": 1100000,
+        "id": 60,
+        "special_atk": 10,
+        "updated_at": "2021-03-08 05:38:54",
+        "z_battle_stage_id": 52
+    },
+    {
+        "atk": 1500,
+        "created_at": "2021-03-17 08:29:09",
+        "def": 10000,
+        "hp": 240000,
+        "id": 61,
+        "special_atk": 10,
+        "updated_at": "2021-03-17 08:29:09",
+        "z_battle_stage_id": 53
+    },
+    {
+        "atk": 1500,
+        "created_at": "2021-04-06 11:32:17",
+        "def": 10000,
+        "hp": 240000,
+        "id": 62,
+        "special_atk": 10,
+        "updated_at": "2021-04-06 11:32:17",
+        "z_battle_stage_id": 54
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-05-20 17:18:37",
+        "def": 10000,
+        "hp": 240000,
+        "id": 63,
+        "special_atk": 10,
+        "updated_at": "2021-05-20 17:18:37",
+        "z_battle_stage_id": 55
+    },
+    {
+        "atk": 4000,
+        "created_at": "2021-06-03 01:23:51",
+        "def": 10000,
+        "hp": 1100000,
+        "id": 64,
+        "special_atk": 10,
+        "updated_at": "2021-06-03 01:23:51",
+        "z_battle_stage_id": 56
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-07-03 21:27:22",
+        "def": 10000,
+        "hp": 240000,
+        "id": 65,
+        "special_atk": 10,
+        "updated_at": "2021-07-03 21:27:22",
+        "z_battle_stage_id": 57
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-08-03 22:01:22",
+        "def": 10000,
+        "hp": 180000,
+        "id": 70,
+        "special_atk": 10,
+        "updated_at": "2021-08-03 22:01:22",
+        "z_battle_stage_id": 59
+    },
+    {
+        "atk": 4000,
+        "created_at": "2021-08-05 11:12:34",
+        "def": 10000,
+        "hp": 1100000,
+        "id": 73,
+        "special_atk": 10,
+        "updated_at": "2021-08-05 11:12:34",
+        "z_battle_stage_id": 60
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-08-10 08:58:48",
+        "def": 10000,
+        "hp": 240000,
+        "id": 74,
+        "special_atk": 10,
+        "updated_at": "2021-08-10 08:58:48",
+        "z_battle_stage_id": 58
+    },
+    {
+        "atk": 1500,
+        "created_at": "2021-08-20 02:31:12",
+        "def": 10000,
+        "hp": 240000,
+        "id": 75,
+        "special_atk": 10,
+        "updated_at": "2021-08-20 02:31:12",
+        "z_battle_stage_id": 61
+    },
+    {
+        "atk": 4000,
+        "created_at": "2021-08-31 01:26:02",
+        "def": 10000,
+        "hp": 1100000,
+        "id": 77,
+        "special_atk": 10,
+        "updated_at": "2021-08-31 01:26:02",
+        "z_battle_stage_id": 62
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-10-11 01:02:50",
+        "def": 10000,
+        "hp": 240000,
+        "id": 79,
+        "special_atk": 10,
+        "updated_at": "2021-10-11 01:02:50",
+        "z_battle_stage_id": 64
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-10-25 04:57:18",
+        "def": 10000,
+        "hp": 240000,
+        "id": 81,
+        "special_atk": 10,
+        "updated_at": "2021-10-25 04:57:18",
+        "z_battle_stage_id": 65
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-11-02 09:51:00",
+        "def": 10000,
+        "hp": 180000,
+        "id": 84,
+        "special_atk": 10,
+        "updated_at": "2021-11-02 09:51:00",
+        "z_battle_stage_id": 66
+    },
+    {
+        "atk": 4000,
+        "created_at": "2021-11-05 08:13:15",
+        "def": 10000,
+        "hp": 1100000,
+        "id": 85,
+        "special_atk": 10,
+        "updated_at": "2021-11-05 08:13:15",
+        "z_battle_stage_id": 67
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-11-29 09:06:37",
+        "def": 10000,
+        "hp": 240000,
+        "id": 86,
+        "special_atk": 10,
+        "updated_at": "2021-11-29 09:06:37",
+        "z_battle_stage_id": 68
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-12-07 12:17:54",
+        "def": 10000,
+        "hp": 240000,
+        "id": 87,
+        "special_atk": 10,
+        "updated_at": "2021-12-07 12:17:54",
+        "z_battle_stage_id": 69
+    },
+    {
+        "atk": 5000,
+        "created_at": "2021-12-19 23:46:05",
+        "def": 10000,
+        "hp": 180000,
+        "id": 88,
+        "special_atk": 10,
+        "updated_at": "2021-12-19 23:46:05",
+        "z_battle_stage_id": 70
+    },
+    {
+        "atk": 4000,
+        "created_at": "2021-12-27 05:11:02",
+        "def": 10000,
+        "hp": 1100000,
+        "id": 89,
+        "special_atk": 10,
+        "updated_at": "2021-12-27 05:11:02",
+        "z_battle_stage_id": 71
+    },
+    {
+        "atk": 5000,
+        "created_at": "2022-01-19 02:55:33",
+        "def": 10000,
+        "hp": 180000,
+        "id": 90,
+        "special_atk": 5,
+        "updated_at": "2022-01-19 02:55:33",
+        "z_battle_stage_id": 72
+    },
+    {
+        "atk": 5000,
+        "created_at": "2022-01-27 23:45:17",
+        "def": 10000,
+        "hp": 240000,
+        "id": 91,
+        "special_atk": 10,
+        "updated_at": "2022-01-27 23:45:17",
+        "z_battle_stage_id": 73
+    },
+    {
+        "atk": 4000,
+        "created_at": "2022-02-04 01:03:02",
+        "def": 10000,
+        "hp": 1100000,
+        "id": 92,
+        "special_atk": 10,
+        "updated_at": "2022-02-04 01:03:02",
+        "z_battle_stage_id": 74
+    },
+    {
+        "atk": 4000,
+        "created_at": "2022-02-14 05:32:40",
+        "def": 10000,
+        "hp": 1100000,
+        "id": 94,
+        "special_atk": 10,
+        "updated_at": "2022-02-14 05:32:40",
+        "z_battle_stage_id": 75
+    },
+    {
+        "atk": 4000,
+        "created_at": "2022-02-19 20:20:08",
+        "def": 10000,
+        "hp": 1100000,
+        "id": 95,
+        "special_atk": 10,
+        "updated_at": "2022-02-19 20:20:08",
+        "z_battle_stage_id": 76
+    }
+]

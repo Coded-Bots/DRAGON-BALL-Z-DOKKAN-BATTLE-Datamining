@@ -1,0 +1,562 @@
+[
+    {
+        "chain_battle_mission_id": 1,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 1,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 2,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 2,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 3,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 3,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 4,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 4,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 5,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 5,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 6,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 6,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 23,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 7,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 24,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 8,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 25,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 9,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 26,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 10,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 27,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 11,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 28,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 12,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 45,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 13,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 46,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 14,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 47,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 15,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 48,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 16,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 49,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 17,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 50,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 18,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 67,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 19,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 68,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 20,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 69,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 21,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 70,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 22,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 71,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 23,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 72,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 24,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 89,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 25,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 90,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 26,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 91,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 27,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 92,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 28,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 93,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 29,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 94,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 30,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 111,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 31,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 112,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 32,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 113,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 33,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 114,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 34,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 115,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 35,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 116,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 36,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 133,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 37,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 134,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 38,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 135,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 39,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 136,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 40,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 137,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 41,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 138,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 42,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 155,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 43,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 156,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 44,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 157,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 45,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 158,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 46,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 159,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 47,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 160,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 48,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 177,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 49,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 178,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 50,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 179,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 51,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 180,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 52,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 197,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 53,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 198,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 54,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 199,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 55,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 200,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 56,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 217,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 57,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 218,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 58,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 219,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 59,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 220,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 60,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 237,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 61,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 238,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 62,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 239,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 63,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 240,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 64,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 257,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 65,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 258,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 66,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 259,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 67,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 260,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 68,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 277,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 69,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 278,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 70,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 279,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 71,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 280,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 72,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 297,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 73,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 298,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 74,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 299,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 75,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 300,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 76,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 317,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 77,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 318,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 78,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 319,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 79,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    },
+    {
+        "chain_battle_mission_id": 320,
+        "created_at": "2022-01-19 09:20:44.889714",
+        "id": 80,
+        "type": "ChainBattleMissionPeriod::DailyMissionPeriod",
+        "updated_at": "2022-01-19 09:20:44.889714"
+    }
+]

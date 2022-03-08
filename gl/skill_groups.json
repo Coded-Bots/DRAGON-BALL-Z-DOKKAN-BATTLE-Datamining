@@ -1,0 +1,268 @@
+[
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 1,
+        "name": "Raise ATK",
+        "priority": 1000,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 2,
+        "name": "Raise DEF",
+        "priority": 990,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 3,
+        "name": "Raise HP",
+        "priority": 980,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 4,
+        "name": "Raise Ki",
+        "priority": 970,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 5,
+        "name": "Lower ATK",
+        "priority": 960,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 6,
+        "name": "Lower DEF",
+        "priority": 950,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 7,
+        "name": "Boost All",
+        "priority": 940,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 8,
+        "name": "Boost Type",
+        "priority": 930,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 9,
+        "name": "Boost Category",
+        "priority": 920,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 10,
+        "name": "All-Target Super Attack",
+        "priority": 910,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 11,
+        "name": "Seal Super Attack",
+        "priority": 900,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 12,
+        "name": "Stun",
+        "priority": 890,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 13,
+        "name": "Transformation",
+        "priority": 880,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 14,
+        "name": "Giant Form",
+        "priority": 870,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 15,
+        "name": "Rage",
+        "priority": 860,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 16,
+        "name": "Counterattack",
+        "priority": 850,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 17,
+        "name": "Attack Effective to All",
+        "priority": 840,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 18,
+        "name": "Damage Reduction",
+        "priority": 830,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 19,
+        "name": "Guard",
+        "priority": 820,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 20,
+        "name": "Disable Guard",
+        "priority": 810,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 21,
+        "name": "Foresee Super Attack",
+        "priority": 800,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 22,
+        "name": "Critical Hit",
+        "priority": 790,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 23,
+        "name": "Change Ki Spheres",
+        "priority": 780,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 24,
+        "name": "Raise ATK (Ki Sphere)",
+        "priority": 770,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 25,
+        "name": "Raise DEF (Ki Sphere)",
+        "priority": 760,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 26,
+        "name": "Recovery (Ki Sphere)",
+        "priority": 750,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 27,
+        "name": "Raise Ki (Ki Sphere)",
+        "priority": 740,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 28,
+        "name": "Additional Attack",
+        "priority": 730,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 29,
+        "name": "Evasion",
+        "priority": 720,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 30,
+        "name": "Recovery",
+        "priority": 710,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 31,
+        "name": "Immune to Negative Effects",
+        "priority": 700,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 32,
+        "name": "Survive K.O. Attack",
+        "priority": 690,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 33,
+        "name": "Guaranteed Hit",
+        "priority": 725,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 34,
+        "name": "Remove Status Effects",
+        "priority": 705,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 36,
+        "name": "Critical Hit Chance (Ki Sphere)",
+        "priority": 738,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 38,
+        "name": "Delay Target",
+        "priority": 885,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 39,
+        "name": "Revive",
+        "priority": 680,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    },
+    {
+        "created_at": "2022-01-19 09:22:12.802043",
+        "id": 40,
+        "name": "Absorption/Nullification",
+        "priority": 825,
+        "updated_at": "2022-01-19 09:22:12.802043"
+    }
+]

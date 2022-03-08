@@ -1,0 +1,194 @@
+[
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 25}気玉をタップしてみましょう{size}{center}",
+        "id": 1000,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}気玉について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_001.png}\n{size: 25}気玉を取るとキャラクターの\n{color : #FF9900}気力と攻撃力（ATK）{color}が上昇して\n敵に与えるダメージが増加します{size}{center}",
+        "id": 1010,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}気玉について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_002.png}\n{size: 25}同じ色で連なっている気玉は\n{color : #FF9900}まとめて取得することが可能{color}です{size}{center}",
+        "id": 1011,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}気玉について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_003.png}\n{size: 25}自分の属性と同じ色の気玉を取ると\n{color : #FF9900}通常の２倍の気力{color}が溜まります{size}{center}",
+        "id": 1012,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}必殺技について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_004.png}\n{size: 25}一定以上の気が溜まると\n{color : #FF9900}必殺技{color}を撃つことができます{size}{center}",
+        "id": 1020,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}必殺技について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_005.png}\n{size: 25}必殺技を撃つと敵に{color : #FF9900}大ダメージ{color}を与え、\n中には{color : #FF9900}様々な追加効果{color}を持つ\n必殺技もあります{size}{center}",
+        "id": 1021,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 25}孫悟空は{color : #FF9900}体属性{color}なので\n自分の属性と同じ{color : #FF9900}オレンジの気玉{color}を取ると\n通常の２倍の気力が溜まります{size}{center}",
+        "id": 1030,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}属性相性について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_009.png}\n{size: 25}{color : #FF9900}敵に対して{color : #FF9900}有利な属性{color}のキャラクターで\n攻撃を受けることで\n{color : #FF9900}ガードしてダメージを軽減{color}できます。{size}{center}",
+        "id": 1100,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}属性相性について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{center:begin}{initialImage: layout/image/tutorial/tutorial_ex_008.png}\n{size: 25}また、敵に対して有利な属性で攻撃すると\n{color : #FF9900}与えるダメージが増加{color}します。{size}{center}",
+        "id": 1101,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}属性相性について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{center:begin}{initialImage: layout/image/tutorial/tutorial_ex_010.png}\n{size: 25}今回の場合は\n{color : #FF9900}「体属性」{color}が{color : #9900FF}「知属性」{color}に対して有利\nとなります。{size}{center}",
+        "id": 1102,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}攻撃の順番について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{center:begin}{initialImage: layout/image/tutorial/tutorial_ex_006.png}\n{size: 25}攻撃の順番は\n{color : #FF9900}画面下部に並んでいる敵と味方のアイコン{color}\nで確認することができます。\n並んでいるアイコンは\n{color : #FF9900}左から順番に行動{color}していきます。{size}{center}",
+        "id": 1110,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}攻撃の順番について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_007.png}\n{size: 25}この画像の場合は{center}\n　　１　ラディッツが孫悟空に攻撃\n　　２　孫悟空がラディッツに攻撃\n　　３　ピッコロがラディッツに攻撃\n{center:begin}という順番で行動します。{size}{center}",
+        "id": 1111,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 25}ラディッツの攻撃をガードするために\n孫悟空とピッコロの\n位置を入れ替えましょう{size}{center}",
+        "id": 1120,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}修業について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_011.png}\n{size: 25}修業を行うことでキャラクターのLvを上げ\n{color : #FF9900}ステータスを上昇{color}させられます。\nLvを最大まで上げたキャラクターは\n{color : #CC33FF}「覚醒」{color}することで\nさらに強化することができます。{size}{center}",
+        "id": 2000,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}修業場所について {size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{size: 25}修業場所は修業の際に消費することで\n効果的に修業を行うことが可能です。{size}\n{initialImage: layout/image/tutorial/tutorial_ex_016.png}\n{size: 25}「界王星（10倍重力）」は\n使用すると{color : #FF9900}必ず修業が大成功{color}になり\n{color : #FF9900}通常の1.2倍の経験値{color}を\n獲得することができます。{size}{center}",
+        "id": 2010,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 25}まずは修業場所を選択しましょう。{size}{center}",
+        "id": 2020,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 25}次は修業相手と修業アイテムを設定します {size}{center}",
+        "id": 2030,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}修業相手と修業アイテム{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_017.png}\n{size: 25}修業の際は{color : #FF9900}修業相手{color}と{color : #FF9900}修業アイテム{color}を消費\nして修業を行います。{size}{center}",
+        "id": 2040,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}修業相手{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_018.png}\n{size: 25}{color : #FF9900}同じ名前のキャラクター{color}を\n修業相手として設定すると\n{color : #FF9900}必殺技Lv{color}を上げることができます。{size}{center}",
+        "id": 2050,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}修業アイテム{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_019.png}\n{size: 25}また、{color : #FF9900}同じ属性の修業アイテム{color}を使うと\n{color : #FF9900}通常の1.5倍{color}の経験値を\n獲得することができます。{size}{center}",
+        "id": 2060,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 25}今回はおまかせで選択してみましょう。\n\nおまかせボタンを押してください。{size}{center}",
+        "id": 2070,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 25} それでは修業開始を押してください {size}\n\n{size:20}設定した修業相手、修業アイテム、ゼニーは\n消失します{size}{center}",
+        "id": 2080,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 25}キャラクターのLvが最大になりました\n\n次はキャラクターをZ覚醒させましょう{size}{center}",
+        "id": 2090,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}覚醒について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{size: 25}覚醒は{color : #FF0000}「Z覚醒」{color}{color : #CC33FF}「ドッカン覚醒」{color}と\n{color : #FFCC00}「極限Z覚醒」{color}の３種類があります。\n{initialImage: layout/image/tutorial/tutorial_ex_012.png}\nキャラクターのLvを最大にした状態で\n{color : #FF9900}覚醒メダルとゼニーを消費{color}して\n各種覚醒を行うことができます。{size}{center}",
+        "id": 2100,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}Z覚醒について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_013.png}\n{size: 25}Z覚醒を行うとキャラクターのパラメータを上昇させることができます。\n\nまた、{color : #FF9900}レアリティがアップ{color}し\n{color : #FF9900}レベル上限も上昇{color}します。{size}{center}",
+        "id": 2110,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}Z覚醒について{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_013.png}\n{size: 25}Z覚醒したキャラクターには\n属性に「超」か「極」が付き\n{color : #FF9900}有利属性への攻撃力が増加{color}して\n{color : #FF9900}弱点属性への耐久が強化{color}されます。{size}{center}",
+        "id": 2111,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size:25}それでは「Z覚醒」ボタンを押してください{size}\n\n{size:20}{color : #FF9900}チュートリアル限定でLvが最大{color}になります{size}{center}",
+        "id": 2120,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}ドッカン覚醒について {size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_014.png}\n{size:25}一部のキャラクターは\nZ覚醒したLvMAXの状態で\n{color : #FF9900}覚醒メダルとゼニーを消費{color}して\n{color : #CC33FF}ドッカン覚醒{color}を行うことができます。{size}{center}",
+        "id": 2200,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}ドッカン覚醒について {size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{initialImage: layout/image/tutorial/tutorial_ex_014.png}\n{size:25}キャラクターの見た目が変化し\n{color : #FF9900}ステータスや必殺技、各種スキルも強化{color}\nされます。{size}{center}",
+        "id": 2201,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size:25}「DOKKAN覚醒ボタン」を\n押してください{size}\n\n{size:19}本来ドッカン覚醒後のキャラクターはLv1になりますが\n{color : #FF9900}チュートリアル限定でLvが最大{color}になります{size}{center}",
+        "id": 2210,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 35}アクティブスキルについて{size}\n{initialImage: layout/image/tutorial/tut_common_dialog_title_line.png}\n{size: 25}特定の条件を満たすと\n{color : #FF9900}「アクティブスキル」{color}を\n発動できるキャラクターがいます。{size}\n{initialImage: layout/image/tutorial/tutorial_ex_015.png}\n{size: 25}バトル中に発動することができ\n発動条件や効果はスキルごとに異なります{size}{center}",
+        "id": 3000,
+        "updated_at": "2021-11-17 00:23:29"
+    },
+    {
+        "created_at": "2021-11-17 00:23:29",
+        "description": "{center:begin}{size: 25}ドッカン覚醒により\n孫悟空のアクティブスキル\nが発動可能になりました。\n\n{color : #FF9900}キャラクターアイコンを上方向にスワイプ{color}\nして発動してみましょう。{size}{center}",
+        "id": 3010,
+        "updated_at": "2021-11-17 00:23:29"
+    }
+]

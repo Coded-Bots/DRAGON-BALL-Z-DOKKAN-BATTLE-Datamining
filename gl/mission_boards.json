@@ -1,0 +1,62 @@
+[
+    {
+        "background_image_path": "images/en/panel_mission/banner/reward_banner/pm_board_reward_001.png",
+        "complete_mission_id": 15528,
+        "contents_lv": 100,
+        "created_at": "2022-01-19 09:20:56.827531",
+        "id": 1,
+        "mission_board_campaign_id": 1001,
+        "mission_category_id": 5001,
+        "number": 1,
+        "popup_id": null,
+        "updated_at": "2022-01-19 09:20:56.827531"
+    },
+    {
+        "background_image_path": "images/en/panel_mission/banner/reward_banner/pm_board_reward_002.png",
+        "complete_mission_id": 15538,
+        "contents_lv": 200,
+        "created_at": "2022-01-19 09:20:56.827531",
+        "id": 2,
+        "mission_board_campaign_id": 1001,
+        "mission_category_id": 5002,
+        "number": 2,
+        "popup_id": null,
+        "updated_at": "2022-01-19 09:20:56.827531"
+    },
+    {
+        "background_image_path": "images/en/panel_mission/banner/reward_banner/pm_board_reward_003.png",
+        "complete_mission_id": 15548,
+        "contents_lv": 300,
+        "created_at": "2022-01-19 09:20:56.827531",
+        "id": 3,
+        "mission_board_campaign_id": 1001,
+        "mission_category_id": 5003,
+        "number": 3,
+        "popup_id": 9020,
+        "updated_at": "2022-01-19 09:20:56.827531"
+    },
+    {
+        "background_image_path": "images/en/panel_mission/banner/reward_banner/pm_board_reward_004.png",
+        "complete_mission_id": 15558,
+        "contents_lv": 400,
+        "created_at": "2022-01-19 09:20:56.827531",
+        "id": 4,
+        "mission_board_campaign_id": 1001,
+        "mission_category_id": 5004,
+        "number": 4,
+        "popup_id": null,
+        "updated_at": "2022-01-19 09:20:56.827531"
+    },
+    {
+        "background_image_path": "images/en/panel_mission/banner/reward_banner/pm_board_reward_005.png",
+        "complete_mission_id": 15568,
+        "contents_lv": 500,
+        "created_at": "2022-01-19 09:20:56.827531",
+        "id": 5,
+        "mission_board_campaign_id": 1001,
+        "mission_category_id": 5005,
+        "number": 5,
+        "popup_id": null,
+        "updated_at": "2022-01-19 09:20:56.827531"
+    }
+]

@@ -1,0 +1,1332 @@
+[
+    {
+        "created_at": "2020-07-21 01:05:21",
+        "description": "気力+1",
+        "id": 1,
+        "kana": "あいしょうばつぐん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "相性抜群",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:21"
+    },
+    {
+        "created_at": "2020-07-21 01:05:21",
+        "description": "気力+1",
+        "id": 2,
+        "kana": "ゆうき",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "勇気",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:21"
+    },
+    {
+        "created_at": "2020-07-21 01:05:21",
+        "description": "DEF20%UP",
+        "id": 3,
+        "kana": "もんかせい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "門下生",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:21"
+    },
+    {
+        "created_at": "2020-07-21 01:05:21",
+        "description": "ATK10%UP",
+        "id": 4,
+        "kana": "むじゃき",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "無邪気",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:21"
+    },
+    {
+        "created_at": "2020-07-21 01:05:21",
+        "description": "ATK15%UP",
+        "id": 5,
+        "kana": "つるせんりゅう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "鶴仙流",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:21"
+    },
+    {
+        "created_at": "2020-07-21 01:05:21",
+        "description": "気力+1",
+        "id": 6,
+        "kana": "まのりゅうぎ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "魔の流儀",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:21"
+    },
+    {
+        "created_at": "2020-07-21 01:05:21",
+        "description": "ATK20%UP",
+        "id": 7,
+        "kana": "まのちから",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "魔の力",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:21"
+    },
+    {
+        "created_at": "2020-07-21 01:05:21",
+        "description": "ATK,DEF10%UP",
+        "id": 8,
+        "kana": "ずのうは",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "頭脳派",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:21"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "敵全体のDEFを5%DOWNさせ、気力+1",
+        "id": 9,
+        "kana": "きんいろのせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "金色の戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 10,
+        "kana": "かねもち",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "金持ち",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 11,
+        "kana": "じゃねんのしはいしゃ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "邪念の支配者",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "HP30%以下で気力+1",
+        "id": 12,
+        "kana": "にげあし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "逃げ足",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "敵全体のDEFを10%DOWNさせる",
+        "id": 13,
+        "kana": "ちょうのうりょく",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "超能力",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 14,
+        "kana": "みためとちがって",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "見た目と違って",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "DEF20%UP",
+        "id": 15,
+        "kana": "えいゆう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "英雄",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 16,
+        "kana": "しこうのせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "至高の戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 17,
+        "kana": "しんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "紳士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 18,
+        "kana": "ざんぎゃく",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "残虐",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK5%UP",
+        "id": 19,
+        "kana": "みらいからのししゃ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "未来からの使者",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 20,
+        "kana": "しんせい・てんかいちぶどうかい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "新生・天下一武道会",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK20%UP",
+        "id": 21,
+        "kana": "しんせい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "新生",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK5%UP",
+        "id": 22,
+        "kana": "せんとうみんぞくさいやじん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "戦闘民族サイヤ人",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "DEF15%UP",
+        "id": 23,
+        "kana": "そんいちぞく",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "孫一族",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 24,
+        "kana": "てれぱしー",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "テレパシー",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 25,
+        "kana": "そんけい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "尊敬",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 26,
+        "kana": "てんさい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "天才",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 27,
+        "kana": "てんかいちぶどうかいゆうしょうしゃ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "天下一武道会優勝者",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "HP5%回復",
+        "id": 28,
+        "kana": "へんしんたいぷ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "変身タイプ",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 29,
+        "kana": "すーぱーさいやじん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "超サイヤ人",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 30,
+        "kana": "れきせんのせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "歴戦の戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 31,
+        "kana": "ふたご",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "双子",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 32,
+        "kana": "ひきょうもの",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "卑怯者",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 33,
+        "kana": "ぶんしん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "分身",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 34,
+        "kana": "さいやじんのち",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "サイヤ人の血",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "DEF10%UP",
+        "id": 35,
+        "kana": "じんぞうにんげん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "人造人間",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK,DEF10%UP",
+        "id": 36,
+        "kana": "かめせんりゅう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "亀仙流",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP、敵全体のDEFを15%DOWN",
+        "id": 37,
+        "kana": "てきかくなあしすと",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "的確なアシスト",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 38,
+        "kana": "めかけい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "メカ系",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "DEF20%UP",
+        "id": 39,
+        "kana": "れいせいなはんだん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "冷静な判断",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 40,
+        "kana": "おうのちすじ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "王の血筋",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK25%UP",
+        "id": 41,
+        "kana": "ぎにゅーとくせんたい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "ギニュー特戦隊",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP、敵全体のDEFを10%DOWN",
+        "id": 42,
+        "kana": "いんふぁいたー",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "インファイター",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK20%UP",
+        "id": 43,
+        "kana": "ふりーざのてした",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "フリーザの手下",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 44,
+        "kana": "ちゃんぴおんのちから",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "チャンピオンの力",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 45,
+        "kana": "Zせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "Z戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "必殺技発動時、ATK10%UP",
+        "id": 46,
+        "kana": "どどんぱ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "どどん波",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "必殺技発動時、ATK5%UP",
+        "id": 47,
+        "kana": "かめはめは",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "かめはめ波",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "HP5%回復",
+        "id": 48,
+        "kana": "なめっくせいじん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "ナメック星人",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "HP50%以下でATK20%UP",
+        "id": 49,
+        "kana": "ばーさーかー",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "バーサーカー",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "HP80%以下でATK,DEF25%UP",
+        "id": 50,
+        "kana": "BOSSきゃら",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "BOSSキャラ",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "DEF20%UP",
+        "id": 51,
+        "kana": "ふりーざぐん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "フリーザ軍",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "DEF15%UP",
+        "id": 52,
+        "kana": "たふねすせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "タフネス戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 53,
+        "kana": "すぴーどたいぷ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "スピードタイプ",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 54,
+        "kana": "こんびねーしょん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "コンビネーション",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 55,
+        "kana": "RRぐん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "RR軍",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 56,
+        "kana": "そんけいのまなざし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "尊敬の眼差し",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 57,
+        "kana": "きょうしゅう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "強襲",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 58,
+        "kana": "あっとうてきなせんとうりょく",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "圧倒的な戦闘力",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 59,
+        "kana": "うちゅうさいきょう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "宇宙最凶",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 60,
+        "kana": "きょういてきなすぴーど",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "驚異的なスピード",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 61,
+        "kana": "うけつがれるいし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "受け継がれる意志",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 62,
+        "kana": "ばーだっくちーむ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "バーダックチーム",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 63,
+        "kana": "さいやじんのほこり",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "サイヤ人の誇り",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 64,
+        "kana": "おんなせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "女戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 65,
+        "kana": "ふっかつ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "復活",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 66,
+        "kana": "ぜつぼうのみらい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "絶望の未来",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 67,
+        "kana": "ゆうきしつかいぞう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "有機質改造",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 68,
+        "kana": "ふっかつの「F」",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "復活の「F」",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 69,
+        "kana": "ぱとろーる",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "パトロール",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 70,
+        "kana": "かみせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "神戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 71,
+        "kana": "ちょうしんげきせん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "超神激戦",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK,DEF20%UP",
+        "id": 72,
+        "kana": "しんせいふりーざぐん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "新生フリーザ軍",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 73,
+        "kana": "ちゅうせいしん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "忠誠心",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 74,
+        "kana": "ふへんのきずな",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "不変の絆",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 75,
+        "kana": "いせかいからのらいほうしゃ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "異世界からの来訪者",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 76,
+        "kana": "まじゅつのつかいて",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "魔術の使い手",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 77,
+        "kana": "まじんふっかつけいかく",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "魔人復活計画",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "HP5%回復",
+        "id": 79,
+        "kana": "ぐるめ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "グルメ",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 80,
+        "kana": "かみのじげん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "神の次元",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 81,
+        "kana": "えねるぎーきゅうしゅうしき",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "エネルギー吸収式",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 82,
+        "kana": "きぼうのほし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "希望の星",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK,DEF10%UP",
+        "id": 83,
+        "kana": "まじん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "魔人",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 84,
+        "kana": "いっしんどうたい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "一心同体",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 85,
+        "kana": "うちゅうさいきょうのいちぞく",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "宇宙最強の一族",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 86,
+        "kana": "せいふくのやぼう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "征服の野望",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 87,
+        "kana": "へらーいちぞく",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "ヘラー一族",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK20%UP",
+        "id": 88,
+        "kana": "ぎんがせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "銀河戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+3",
+        "id": 89,
+        "kana": "たんきけっせん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "短期決戦",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 90,
+        "kana": "ふしぎなだいぼうけん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "不思議な大冒険",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 91,
+        "kana": "くうらのぶか",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "クウラの部下",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK25%UP",
+        "id": 92,
+        "kana": "くうらきこうせんたい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "クウラ機甲戦隊",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK25%UP",
+        "id": 93,
+        "kana": "せいぎのひーろー",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "正義のヒーロー",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 94,
+        "kana": "きめぽーず",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "決めポーズ",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 95,
+        "kana": "GT",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "GT",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "HP3%回復",
+        "id": 96,
+        "kana": "むげんのさいせい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "無限の再生",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 97,
+        "kana": "りんせんたいせい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "臨戦態勢",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK25%UP",
+        "id": 98,
+        "kana": "うちゅうのこわしや",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "宇宙の壊し屋",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 100,
+        "kana": "たーれすぐんだん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "ターレス軍団",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 101,
+        "kana": "うらないばばのとうし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "占いババの闘士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK20%UP",
+        "id": 102,
+        "kana": "どらごんぼーるのみちびき",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "ドラゴンボールの導き",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "必殺技発動時、ATK5%UP",
+        "id": 103,
+        "kana": "かみからさずかりしちから",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "神から授かりし力",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+1",
+        "id": 104,
+        "kana": "べじーたおうへのうらみ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "ベジータ王への恨み",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "HP3%回復",
+        "id": 105,
+        "kana": "じこしゅうふくきのう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "自己修復機能",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 106,
+        "kana": "ゆうごう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "融合",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 107,
+        "kana": "じゃくてんのほきょう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "弱点の補強",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 108,
+        "kana": "きゅうきょくせいめいたいへのけいふ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "究極生命体への系譜",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 109,
+        "kana": "ちょうげきせん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "超激戦",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 110,
+        "kana": "えいきゅうえねるぎーろ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "永久エネルギー炉",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 111,
+        "kana": "ちょうきょうてき",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "超強敵",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 112,
+        "kana": "がったいせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "合体戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "HP3%回復",
+        "id": 113,
+        "kana": "がったいしっぱい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "合体失敗",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 114,
+        "kana": "かがくしゃ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "科学者",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 115,
+        "kana": "さいやじんへのにくしみ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "サイヤ人への憎しみ",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "必殺技発動時、ATK5%UP",
+        "id": 116,
+        "kana": "げんかいをこえたすがた",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "限界を超えた姿",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK25%UP",
+        "id": 117,
+        "kana": "かくせいのせんくしゃ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "覚醒の先駆者",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 118,
+        "kana": "げんかいとっぱ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "限界突破",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK10%UP",
+        "id": 119,
+        "kana": "あくむ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "悪夢",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 120,
+        "kana": "きょうふとぜつぼう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "恐怖と絶望",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK20%UP",
+        "id": 121,
+        "kana": "ぜのばーす",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "ゼノバース",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK20%UP",
+        "id": 122,
+        "kana": "ちょうきょうしゅう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "超強襲",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 123,
+        "kana": "きょだいか",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "巨大化",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK25%UP",
+        "id": 124,
+        "kana": "さいやのほうこう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "サイヤの咆哮",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "必殺技発動時、ATK10%UP",
+        "id": 125,
+        "kana": "でんせつのちから",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "伝説の力",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 126,
+        "kana": "だい6うちゅうのせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "第6宇宙の戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 127,
+        "kana": "じゃあくりゅう",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "邪悪龍",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK15%UP",
+        "id": 128,
+        "kana": "ぺんぎんむらのだいぼうけん",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "ペンギン村の大冒険",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK20%UP",
+        "id": 129,
+        "kana": "あのよのせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "あの世の戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+3",
+        "id": 130,
+        "kana": "ちからのたいかい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "力の大会",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "敵の「暴走」無効化&ATK15%UP",
+        "id": 1000,
+        "kana": "ばーにんぐふぁいと",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "バーニングファイト",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "敵の「再生」効果減少&気力+1",
+        "id": 1001,
+        "kana": "たましいvsたましい",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "魂vs魂",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "気力+2",
+        "id": 1002,
+        "kana": "おうごんのZせんし",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "黄金のZ戦士",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "ATK,DEF5%UPし、「貫通」効果を得る",
+        "id": 1003,
+        "kana": "ぶっちぎりのぱわー",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "ぶっちぎりのパワー",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    },
+    {
+        "created_at": "2020-07-21 01:05:22",
+        "description": "敵の「真なる力」無効化&ATK15%UP",
+        "id": 1004,
+        "kana": "たちはだかるかべ",
+        "link_skill_lv_up_prob_set_id": 1,
+        "name": "立ちはだかる壁",
+        "need_link_num": 1,
+        "updated_at": "2020-07-21 01:05:22"
+    }
+]

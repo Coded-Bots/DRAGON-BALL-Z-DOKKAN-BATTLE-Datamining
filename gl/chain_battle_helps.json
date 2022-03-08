@@ -1,0 +1,137 @@
+[
+    {
+        "chain_battle_help_category_id": 1,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 1,
+        "num": null,
+        "title": "Requirements and Usable Characters",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 1,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 2,
+        "num": null,
+        "title": "Battle Energy",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 1,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 3,
+        "num": null,
+        "title": "Attacker",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 1,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 4,
+        "num": null,
+        "title": "About Chain Power",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 1,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 5,
+        "num": null,
+        "title": "Supporter",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 1,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 6,
+        "num": null,
+        "title": "Connector",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 1,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 7,
+        "num": null,
+        "title": "Advantageous Characters",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 1,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 8,
+        "num": null,
+        "title": "Ranking",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 1,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 9,
+        "num": null,
+        "title": "Battle Log",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 1,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 10,
+        "num": null,
+        "title": "NICE",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 2,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 11,
+        "num": null,
+        "title": "Basic Rules",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 2,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 12,
+        "num": null,
+        "title": "Support Battle",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 3,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 13,
+        "num": null,
+        "title": "Missions",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 3,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 14,
+        "num": null,
+        "title": "About \"Emblem of Cooperation\"",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    },
+    {
+        "chain_battle_help_category_id": 3,
+        "created_at": "2022-01-19 09:20:44.861160",
+        "description": "description: helps",
+        "id": 15,
+        "num": null,
+        "title": "Ranking Rewards",
+        "updated_at": "2022-01-19 09:20:44.861160"
+    }
+]

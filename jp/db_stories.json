@@ -1,0 +1,18 @@
+[
+    {
+        "banner_image_path": "images/event/series/series_list_banner_02.png",
+        "created_at": "2021-12-27 02:07:13",
+        "id": 1,
+        "name": "ドラゴンボールZ",
+        "priority": 1,
+        "updated_at": "2021-12-27 02:07:13"
+    },
+    {
+        "banner_image_path": "images/event/series/series_list_banner_03.png",
+        "created_at": "2021-12-27 02:07:13",
+        "id": 2,
+        "name": "ドラゴンボールGT",
+        "priority": 2,
+        "updated_at": "2021-12-27 02:07:13"
+    }
+]

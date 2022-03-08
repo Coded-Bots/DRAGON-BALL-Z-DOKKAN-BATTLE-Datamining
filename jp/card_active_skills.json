@@ -1,0 +1,1248 @@
+[
+    {
+        "active_skill_set_id": 13,
+        "card_id": 1015910,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 22,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 13,
+        "card_id": 1015911,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 23,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 14,
+        "card_id": 1014210,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 24,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 14,
+        "card_id": 1014211,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 25,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 15,
+        "card_id": 1014220,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 26,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 15,
+        "card_id": 1014221,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 27,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 16,
+        "card_id": 1016570,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 28,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 16,
+        "card_id": 1016571,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 29,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 17,
+        "card_id": 1016810,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 30,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 17,
+        "card_id": 1016811,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 31,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 18,
+        "card_id": 4016880,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 32,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 18,
+        "card_id": 4016881,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 33,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 19,
+        "card_id": 4017090,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 34,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 20,
+        "card_id": 4017091,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 35,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 21,
+        "card_id": 4017130,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 36,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 22,
+        "card_id": 4017131,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 37,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 23,
+        "card_id": 4017190,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 38,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 24,
+        "card_id": 4017191,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 39,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 25,
+        "card_id": 1017160,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 40,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 25,
+        "card_id": 1017161,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 41,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 26,
+        "card_id": 4017910,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 42,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 26,
+        "card_id": 4017911,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 43,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 27,
+        "card_id": 1017630,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 44,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 28,
+        "card_id": 1017631,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 45,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 29,
+        "card_id": 1017490,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 46,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 30,
+        "card_id": 1017491,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 47,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 31,
+        "card_id": 1017660,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 48,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 32,
+        "card_id": 1017661,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 49,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 33,
+        "card_id": 1017740,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 50,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 34,
+        "card_id": 1017741,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 51,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 35,
+        "card_id": 1018030,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 52,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 36,
+        "card_id": 1018031,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 53,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 37,
+        "card_id": 1018190,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 54,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 38,
+        "card_id": 1018191,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 55,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 39,
+        "card_id": 1018540,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 56,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 39,
+        "card_id": 1018541,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 57,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 40,
+        "card_id": 4017980,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 58,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 40,
+        "card_id": 4017981,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 59,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 41,
+        "card_id": 4017970,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 60,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 41,
+        "card_id": 4017971,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 61,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 42,
+        "card_id": 1019280,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 62,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 42,
+        "card_id": 1019281,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 63,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 43,
+        "card_id": 1019040,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 64,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 43,
+        "card_id": 1019041,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 65,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 44,
+        "card_id": 1018880,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 66,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 45,
+        "card_id": 1018881,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 67,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 46,
+        "card_id": 1019140,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 68,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 47,
+        "card_id": 1019141,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 69,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 48,
+        "card_id": 1019340,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 70,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 48,
+        "card_id": 1019341,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 71,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 49,
+        "card_id": 9017660,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 72,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 50,
+        "card_id": 9017661,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 73,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 51,
+        "card_id": 1019400,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 74,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 51,
+        "card_id": 1019401,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 75,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 52,
+        "card_id": 4019640,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 76,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 53,
+        "card_id": 4019641,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 77,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 54,
+        "card_id": 4019600,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 78,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 55,
+        "card_id": 4019601,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 79,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 56,
+        "card_id": 4019760,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 80,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 56,
+        "card_id": 4019761,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 81,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 57,
+        "card_id": 1019990,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 82,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 57,
+        "card_id": 1019991,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 83,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 58,
+        "card_id": 1019910,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 84,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 58,
+        "card_id": 1019911,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 85,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 59,
+        "card_id": 1020460,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 86,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 60,
+        "card_id": 1020461,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 87,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 61,
+        "card_id": 1020370,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 88,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 62,
+        "card_id": 1020371,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 89,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 63,
+        "card_id": 1019490,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 90,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 64,
+        "card_id": 1019491,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 91,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 65,
+        "card_id": 1020090,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 92,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 66,
+        "card_id": 1020091,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 93,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 67,
+        "card_id": 1020130,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 94,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 68,
+        "card_id": 1020131,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 95,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 69,
+        "card_id": 1020220,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 96,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 70,
+        "card_id": 1020221,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 97,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 71,
+        "card_id": 1020750,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 98,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 72,
+        "card_id": 1020751,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 99,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 73,
+        "card_id": 1020500,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 100,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 74,
+        "card_id": 1020501,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 101,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 75,
+        "card_id": 1020990,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 102,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 75,
+        "card_id": 1020991,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 103,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 76,
+        "card_id": 1021140,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 104,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 76,
+        "card_id": 1021141,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 105,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 77,
+        "card_id": 1021050,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 106,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 78,
+        "card_id": 1021051,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 107,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 79,
+        "card_id": 1021330,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 108,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 79,
+        "card_id": 1021331,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 109,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 80,
+        "card_id": 1021290,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 110,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 81,
+        "card_id": 1021291,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 111,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 82,
+        "card_id": 1020310,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 112,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 82,
+        "card_id": 1020311,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 113,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 83,
+        "card_id": 1020340,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 114,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 83,
+        "card_id": 1020341,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 115,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 84,
+        "card_id": 1021620,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 116,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 84,
+        "card_id": 1021621,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 117,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 85,
+        "card_id": 1021430,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 118,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 85,
+        "card_id": 1021431,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 119,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 86,
+        "card_id": 1021480,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 120,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 86,
+        "card_id": 1021481,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 121,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 87,
+        "card_id": 1021670,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 122,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 87,
+        "card_id": 1021671,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 123,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 88,
+        "card_id": 1021690,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 124,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 88,
+        "card_id": 1021691,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 125,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 89,
+        "card_id": 1021810,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 126,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 89,
+        "card_id": 1021811,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 127,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 90,
+        "card_id": 1021970,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 128,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 90,
+        "card_id": 1021971,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 129,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 91,
+        "card_id": 1021880,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 130,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 91,
+        "card_id": 1021881,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 131,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 92,
+        "card_id": 1021920,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 132,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 92,
+        "card_id": 1021921,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 133,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 93,
+        "card_id": 1021940,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 134,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 93,
+        "card_id": 1021941,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 135,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 94,
+        "card_id": 1022090,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 136,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 94,
+        "card_id": 1022091,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 137,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 95,
+        "card_id": 1022120,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 138,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 95,
+        "card_id": 1022121,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 139,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 96,
+        "card_id": 1022220,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 140,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 96,
+        "card_id": 1022221,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 141,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 97,
+        "card_id": 1022190,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 142,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 98,
+        "card_id": 1022191,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 143,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 99,
+        "card_id": 1022590,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 144,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 100,
+        "card_id": 1022591,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 145,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 101,
+        "card_id": 1022340,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 146,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 101,
+        "card_id": 1022341,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 147,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 102,
+        "card_id": 1022650,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 148,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 102,
+        "card_id": 1022651,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 149,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 103,
+        "card_id": 1022771,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 150,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 104,
+        "card_id": 1022781,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 151,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 105,
+        "card_id": 1022880,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 152,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 106,
+        "card_id": 1022881,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 153,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 107,
+        "card_id": 1022630,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 154,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 107,
+        "card_id": 1022631,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 155,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 108,
+        "card_id": 1022750,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 156,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 108,
+        "card_id": 1022751,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 157,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 111,
+        "card_id": 9522880,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 158,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 112,
+        "card_id": 9522881,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 159,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 109,
+        "card_id": 1022940,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 160,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 109,
+        "card_id": 1022941,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 161,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 110,
+        "card_id": 4022950,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 162,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 110,
+        "card_id": 4022951,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 163,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 113,
+        "card_id": 1022830,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 164,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 114,
+        "card_id": 1022831,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 165,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 103,
+        "card_id": 1022770,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 166,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 104,
+        "card_id": 1022780,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 167,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 115,
+        "card_id": 1023090,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 168,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 115,
+        "card_id": 1023091,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 169,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 116,
+        "card_id": 9022770,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 170,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 116,
+        "card_id": 9022771,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 171,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 117,
+        "card_id": 1023110,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 172,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 118,
+        "card_id": 1023111,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 173,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 119,
+        "card_id": 1023360,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 174,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 119,
+        "card_id": 1023361,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 175,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 120,
+        "card_id": 1023420,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 176,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 121,
+        "card_id": 1023421,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 177,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 122,
+        "card_id": 1022380,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 178,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 123,
+        "card_id": 1022381,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 179,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 124,
+        "card_id": 1022420,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 180,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 125,
+        "card_id": 1022421,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 181,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 126,
+        "card_id": 1023460,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 182,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 127,
+        "card_id": 1023461,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 183,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 128,
+        "card_id": 1023490,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 184,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 128,
+        "card_id": 1023491,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 185,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 129,
+        "card_id": 4022390,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 186,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 129,
+        "card_id": 4022391,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 187,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 130,
+        "card_id": 4022430,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 188,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 130,
+        "card_id": 4022431,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 189,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 131,
+        "card_id": 1023930,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 190,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 131,
+        "card_id": 1023931,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 191,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 132,
+        "card_id": 1023620,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 192,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 132,
+        "card_id": 1023621,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 193,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 133,
+        "card_id": 1023520,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 194,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 134,
+        "card_id": 1023521,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 195,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 135,
+        "card_id": 1023770,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 196,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 136,
+        "card_id": 1023771,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 197,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 137,
+        "card_id": 9523930,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 198,
+        "updated_at": "2022-03-01 00:22:17"
+    },
+    {
+        "active_skill_set_id": 137,
+        "card_id": 9523931,
+        "created_at": "2022-03-01 00:22:17",
+        "id": 199,
+        "updated_at": "2022-03-01 00:22:17"
+    }
+]

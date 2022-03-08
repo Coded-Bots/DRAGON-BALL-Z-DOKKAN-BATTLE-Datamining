@@ -1,0 +1,32 @@
+[
+    {
+        "created_at": "2022-01-19 09:20:09.872290",
+        "description": "Consume it to restore 20 STA.",
+        "id": 1,
+        "name": "Aged Meat (S)",
+        "rarity": 2,
+        "recover_value": 20,
+        "selling_exchange_point": 0,
+        "updated_at": "2022-01-19 09:20:09.872290"
+    },
+    {
+        "created_at": "2022-01-19 09:20:09.872290",
+        "description": "Consume it to restore 60 STA.",
+        "id": 2,
+        "name": "Aged Meat (M)",
+        "rarity": 2,
+        "recover_value": 60,
+        "selling_exchange_point": 0,
+        "updated_at": "2022-01-19 09:20:09.872290"
+    },
+    {
+        "created_at": "2022-01-19 09:20:09.872290",
+        "description": "Consume it to restore 100 STA.",
+        "id": 3,
+        "name": "Aged Meat (L)",
+        "rarity": 2,
+        "recover_value": 100,
+        "selling_exchange_point": 0,
+        "updated_at": "2022-01-19 09:20:09.872290"
+    }
+]

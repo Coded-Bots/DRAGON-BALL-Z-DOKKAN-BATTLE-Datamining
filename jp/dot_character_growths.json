@@ -1,0 +1,110 @@
+[
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100001,
+        "image_number": 1,
+        "lv": 1,
+        "point_total": 0,
+        "updated_at": "2022-01-11 00:47:14"
+    },
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100002,
+        "image_number": 2,
+        "lv": 2,
+        "point_total": 50,
+        "updated_at": "2022-01-11 00:47:14"
+    },
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100003,
+        "image_number": 3,
+        "lv": 3,
+        "point_total": 120,
+        "updated_at": "2022-01-11 00:47:14"
+    },
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100004,
+        "image_number": 4,
+        "lv": 4,
+        "point_total": 200,
+        "updated_at": "2022-01-11 00:47:14"
+    },
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100005,
+        "image_number": 5,
+        "lv": 5,
+        "point_total": 300,
+        "updated_at": "2022-01-11 00:47:14"
+    },
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100006,
+        "image_number": 6,
+        "lv": 6,
+        "point_total": 400,
+        "updated_at": "2022-01-11 00:47:14"
+    },
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100007,
+        "image_number": 7,
+        "lv": 7,
+        "point_total": 500,
+        "updated_at": "2022-01-11 00:47:14"
+    },
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100008,
+        "image_number": 8,
+        "lv": 8,
+        "point_total": 600,
+        "updated_at": "2022-01-11 00:47:14"
+    },
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100009,
+        "image_number": 9,
+        "lv": 9,
+        "point_total": 777,
+        "updated_at": "2022-01-11 00:47:14"
+    },
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100010,
+        "image_number": 10,
+        "lv": 10,
+        "point_total": 900,
+        "updated_at": "2022-01-11 00:47:14"
+    },
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100011,
+        "image_number": 11,
+        "lv": 11,
+        "point_total": 1050,
+        "updated_at": "2022-01-11 00:47:14"
+    },
+    {
+        "created_at": "2022-01-11 00:47:14",
+        "grow_type": 1,
+        "id": 100012,
+        "image_number": 12,
+        "lv": 12,
+        "point_total": 1250,
+        "updated_at": "2022-01-11 00:47:14"
+    }
+]

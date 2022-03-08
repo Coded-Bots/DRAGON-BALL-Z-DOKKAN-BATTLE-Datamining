@@ -1,0 +1,418 @@
+[
+    {
+        "conditions": "{\"element_bitpattern\":1}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 1,
+        "id": 1,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":2}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 2,
+        "id": 2,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":4}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 3,
+        "id": 3,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":8}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 4,
+        "id": 4,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":16}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 5,
+        "id": 5,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":31}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 6,
+        "id": 6,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":4096}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 7,
+        "id": 7,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":8192}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 8,
+        "id": 8,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":16384}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 9,
+        "id": 9,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":32768}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 10,
+        "id": 10,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":65536}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 11,
+        "id": 11,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":126976}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 12,
+        "id": 12,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":131072}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 13,
+        "id": 13,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":262144}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 14,
+        "id": 14,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":524288}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 15,
+        "id": 15,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":1048576}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 16,
+        "id": 16,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":2097152}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 17,
+        "id": 17,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"element_bitpattern\":4063232}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 18,
+        "id": 18,
+        "type": "EquipmentSkillLimitation::ElementLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_unique_info_set_ids\":[38]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 19,
+        "id": 19,
+        "type": "EquipmentSkillLimitation::CardUniqueInfoSetLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_unique_info_set_ids\":[39]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 20,
+        "id": 20,
+        "type": "EquipmentSkillLimitation::CardUniqueInfoSetLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_unique_info_set_ids\":[40]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 21,
+        "id": 21,
+        "type": "EquipmentSkillLimitation::CardUniqueInfoSetLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[27]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 22,
+        "id": 22,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_ids\":[1019161,1019170,1019171]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 23,
+        "id": 23,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_ids\":[1019191,1019200,1019201]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 24,
+        "id": 24,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_ids\":[1019081,1019090,1019091]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 25,
+        "id": 25,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_ids\":[1019231,1019240,1019241]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 26,
+        "id": 26,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_ids\":[1019211,1019220,1019221]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 27,
+        "id": 27,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[1]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 28,
+        "id": 28,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[2]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 29,
+        "id": 29,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[4]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 30,
+        "id": 30,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[5]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 31,
+        "id": 31,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[7]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 32,
+        "id": 32,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[8]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 33,
+        "id": 33,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[9]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 34,
+        "id": 34,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[10]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 35,
+        "id": 35,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[22]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 36,
+        "id": 36,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[6]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 37,
+        "id": 37,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[12]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 38,
+        "id": 38,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[13]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 39,
+        "id": 39,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[23]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 40,
+        "id": 40,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[15]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 41,
+        "id": 41,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[16]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 42,
+        "id": 42,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[19]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 43,
+        "id": 43,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[20]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 44,
+        "id": 44,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[21]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 45,
+        "id": 45,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[17]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 46,
+        "id": 46,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_category_ids\":[14]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 47,
+        "id": 47,
+        "type": "EquipmentSkillLimitation::CardCategoryLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_ids\":[1013041,1013050,1013051]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 48,
+        "id": 48,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_ids\":[1013061,1013070,1013071]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 49,
+        "id": 49,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_ids\":[1013081,1013090,1013091]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 50,
+        "id": 50,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_ids\":[1013021,1013030,1013031]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 51,
+        "id": 51,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    },
+    {
+        "conditions": "{\"card_ids\":[1013001,1013010,1013011]}",
+        "created_at": "2022-01-19 09:20:52.612795",
+        "equipment_skill_limitation_set_id": 52,
+        "id": 52,
+        "type": "EquipmentSkillLimitation::CardLimitation",
+        "updated_at": "2022-01-19 09:20:52.612795"
+    }
+]
