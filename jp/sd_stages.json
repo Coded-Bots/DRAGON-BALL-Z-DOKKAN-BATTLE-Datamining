@@ -1,2152 +1,2402 @@
 [
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 1,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 1,
         "sd_enemy_table_id": 1,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 2,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 1,
         "sd_enemy_table_id": 4,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 3,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 1,
         "sd_enemy_table_id": 2,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 4,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 1,
         "sd_enemy_table_id": 4,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 5,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 1,
         "sd_enemy_table_id": 3,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 6,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 2,
         "sd_enemy_table_id": 7,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 7,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 2,
         "sd_enemy_table_id": 5,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 8,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 2,
         "sd_enemy_table_id": 8,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 9,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 2,
         "sd_enemy_table_id": 8,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 10,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 2,
         "sd_enemy_table_id": 6,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 11,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 3,
         "sd_enemy_table_id": 12,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 12,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 3,
         "sd_enemy_table_id": 12,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 13,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 3,
         "sd_enemy_table_id": 10,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 14,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 3,
         "sd_enemy_table_id": 11,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 15,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 3,
         "sd_enemy_table_id": 9,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 16,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 4,
         "sd_enemy_table_id": 15,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 17,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 4,
         "sd_enemy_table_id": 16,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 18,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 4,
         "sd_enemy_table_id": 16,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 19,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 4,
         "sd_enemy_table_id": 13,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 20,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 4,
         "sd_enemy_table_id": 14,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 21,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 5,
         "sd_enemy_table_id": 17,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 22,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 5,
         "sd_enemy_table_id": 20,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 23,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 5,
         "sd_enemy_table_id": 18,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 24,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 5,
         "sd_enemy_table_id": 20,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 25,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 5,
         "sd_enemy_table_id": 19,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 26,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 6,
         "sd_enemy_table_id": 23,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 27,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 6,
         "sd_enemy_table_id": 21,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 28,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 6,
         "sd_enemy_table_id": 24,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 29,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 6,
         "sd_enemy_table_id": 24,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 30,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 6,
         "sd_enemy_table_id": 22,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 31,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 7,
         "sd_enemy_table_id": 28,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 32,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 7,
         "sd_enemy_table_id": 28,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 33,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 7,
         "sd_enemy_table_id": 26,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 34,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 7,
         "sd_enemy_table_id": 27,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 35,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 7,
         "sd_enemy_table_id": 25,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 36,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 8,
         "sd_enemy_table_id": 31,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 37,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 8,
         "sd_enemy_table_id": 32,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 38,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 60,
         "sd_arena_id": 8,
         "sd_enemy_table_id": 32,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 39,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 8,
         "sd_enemy_table_id": 29,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 40,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 60,
         "sd_arena_id": 8,
         "sd_enemy_table_id": 30,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 41,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 9,
         "sd_enemy_table_id": 33,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 42,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 9,
         "sd_enemy_table_id": 36,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 43,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 9,
         "sd_enemy_table_id": 36,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 44,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 9,
         "sd_enemy_table_id": 34,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 45,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 9,
         "sd_enemy_table_id": 35,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 46,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 10,
         "sd_enemy_table_id": 37,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 47,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 10,
         "sd_enemy_table_id": 40,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 48,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 10,
         "sd_enemy_table_id": 40,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 49,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 10,
         "sd_enemy_table_id": 38,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 50,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 10,
         "sd_enemy_table_id": 39,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 51,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 11,
         "sd_enemy_table_id": 41,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 52,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 11,
         "sd_enemy_table_id": 44,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 53,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 11,
         "sd_enemy_table_id": 44,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 54,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 11,
         "sd_enemy_table_id": 42,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 55,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 11,
         "sd_enemy_table_id": 43,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 56,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 12,
         "sd_enemy_table_id": 45,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 57,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 12,
         "sd_enemy_table_id": 48,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 58,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 12,
         "sd_enemy_table_id": 48,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 59,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 12,
         "sd_enemy_table_id": 46,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 60,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 12,
         "sd_enemy_table_id": 47,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 61,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 13,
         "sd_enemy_table_id": 49,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 62,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 13,
         "sd_enemy_table_id": 52,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 63,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 13,
         "sd_enemy_table_id": 52,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 64,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 13,
         "sd_enemy_table_id": 50,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 65,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 13,
         "sd_enemy_table_id": 51,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 66,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 14,
         "sd_enemy_table_id": 53,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 67,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 14,
         "sd_enemy_table_id": 56,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 68,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 14,
         "sd_enemy_table_id": 56,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 69,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 14,
         "sd_enemy_table_id": 54,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 70,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 14,
         "sd_enemy_table_id": 55,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 71,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 15,
         "sd_enemy_table_id": 57,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 72,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 15,
         "sd_enemy_table_id": 60,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 73,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 15,
         "sd_enemy_table_id": 60,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 74,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 15,
         "sd_enemy_table_id": 58,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 75,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 15,
         "sd_enemy_table_id": 59,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 76,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 16,
         "sd_enemy_table_id": 61,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 77,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 16,
         "sd_enemy_table_id": 64,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 78,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 16,
         "sd_enemy_table_id": 64,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 79,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 16,
         "sd_enemy_table_id": 62,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 80,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 16,
         "sd_enemy_table_id": 63,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 81,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 17,
         "sd_enemy_table_id": 65,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 82,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 17,
         "sd_enemy_table_id": 68,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 83,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 17,
         "sd_enemy_table_id": 69,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 84,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 17,
         "sd_enemy_table_id": 66,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 85,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 17,
         "sd_enemy_table_id": 67,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 86,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 18,
         "sd_enemy_table_id": 70,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 87,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 18,
         "sd_enemy_table_id": 73,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 88,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 18,
         "sd_enemy_table_id": 74,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 89,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 18,
         "sd_enemy_table_id": 71,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 90,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 18,
         "sd_enemy_table_id": 72,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 91,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 19,
         "sd_enemy_table_id": 75,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 92,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 19,
         "sd_enemy_table_id": 78,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 93,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 19,
         "sd_enemy_table_id": 79,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 94,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 19,
         "sd_enemy_table_id": 76,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 95,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 19,
         "sd_enemy_table_id": 77,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 96,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 20,
         "sd_enemy_table_id": 80,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 97,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 20,
         "sd_enemy_table_id": 83,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 98,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 20,
         "sd_enemy_table_id": 84,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 99,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 20,
         "sd_enemy_table_id": 81,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 100,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 20,
         "sd_enemy_table_id": 82,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 101,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 21,
         "sd_enemy_table_id": 85,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 102,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 21,
         "sd_enemy_table_id": 88,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 103,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 21,
         "sd_enemy_table_id": 89,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 104,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 21,
         "sd_enemy_table_id": 86,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 105,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 21,
         "sd_enemy_table_id": 87,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 106,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 22,
         "sd_enemy_table_id": 90,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 107,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 22,
         "sd_enemy_table_id": 93,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 108,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 22,
         "sd_enemy_table_id": 94,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 109,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 22,
         "sd_enemy_table_id": 91,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 110,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 22,
         "sd_enemy_table_id": 92,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 111,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 23,
         "sd_enemy_table_id": 95,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 112,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 23,
         "sd_enemy_table_id": 98,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 113,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 23,
         "sd_enemy_table_id": 99,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 114,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 23,
         "sd_enemy_table_id": 96,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 115,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 23,
         "sd_enemy_table_id": 97,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 116,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 24,
         "sd_enemy_table_id": 100,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 117,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 24,
         "sd_enemy_table_id": 103,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 118,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 24,
         "sd_enemy_table_id": 104,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 119,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 24,
         "sd_enemy_table_id": 101,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 120,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 24,
         "sd_enemy_table_id": 102,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 121,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 25,
         "sd_enemy_table_id": 105,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 122,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 25,
         "sd_enemy_table_id": 108,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 123,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 25,
         "sd_enemy_table_id": 109,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 124,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 25,
         "sd_enemy_table_id": 106,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 125,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 25,
         "sd_enemy_table_id": 107,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 126,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 26,
         "sd_enemy_table_id": 110,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 127,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 26,
         "sd_enemy_table_id": 113,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 128,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 26,
         "sd_enemy_table_id": 114,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 129,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 26,
         "sd_enemy_table_id": 111,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 130,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 26,
         "sd_enemy_table_id": 112,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 131,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 27,
         "sd_enemy_table_id": 115,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 132,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 27,
         "sd_enemy_table_id": 118,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 133,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 27,
         "sd_enemy_table_id": 119,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 134,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 27,
         "sd_enemy_table_id": 116,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 135,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 27,
         "sd_enemy_table_id": 117,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 136,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 28,
         "sd_enemy_table_id": 120,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 137,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 28,
         "sd_enemy_table_id": 123,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 138,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 28,
         "sd_enemy_table_id": 124,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 139,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 28,
         "sd_enemy_table_id": 121,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 140,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 28,
         "sd_enemy_table_id": 122,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 141,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 29,
         "sd_enemy_table_id": 125,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 142,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 29,
         "sd_enemy_table_id": 128,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 143,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 29,
         "sd_enemy_table_id": 129,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 144,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 29,
         "sd_enemy_table_id": 126,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 145,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 29,
         "sd_enemy_table_id": 127,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 146,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 30,
         "sd_enemy_table_id": 130,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 147,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 30,
         "sd_enemy_table_id": 133,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 148,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 30,
         "sd_enemy_table_id": 134,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 149,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 30,
         "sd_enemy_table_id": 131,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 150,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 30,
         "sd_enemy_table_id": 132,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 151,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 31,
         "sd_enemy_table_id": 135,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 152,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 31,
         "sd_enemy_table_id": 138,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 153,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 31,
         "sd_enemy_table_id": 139,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 154,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 31,
         "sd_enemy_table_id": 136,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 155,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 31,
         "sd_enemy_table_id": 137,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 156,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 32,
         "sd_enemy_table_id": 140,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 157,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 32,
         "sd_enemy_table_id": 143,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 158,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 32,
         "sd_enemy_table_id": 144,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 159,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 32,
         "sd_enemy_table_id": 141,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 160,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 32,
         "sd_enemy_table_id": 142,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 161,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 33,
         "sd_enemy_table_id": 145,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 162,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 33,
         "sd_enemy_table_id": 148,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 163,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 33,
         "sd_enemy_table_id": 149,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 164,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 33,
         "sd_enemy_table_id": 146,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 165,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 33,
         "sd_enemy_table_id": 147,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 166,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 34,
         "sd_enemy_table_id": 150,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 167,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 34,
         "sd_enemy_table_id": 153,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 168,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 34,
         "sd_enemy_table_id": 154,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 169,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 34,
         "sd_enemy_table_id": 151,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 170,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 34,
         "sd_enemy_table_id": 152,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 171,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 35,
         "sd_enemy_table_id": 155,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 172,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 35,
         "sd_enemy_table_id": 158,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 173,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 35,
         "sd_enemy_table_id": 159,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 174,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 35,
         "sd_enemy_table_id": 156,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 175,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 35,
         "sd_enemy_table_id": 157,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 176,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 36,
         "sd_enemy_table_id": 160,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 177,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 36,
         "sd_enemy_table_id": 163,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 178,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 36,
         "sd_enemy_table_id": 164,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 179,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 36,
         "sd_enemy_table_id": 161,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 180,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 36,
         "sd_enemy_table_id": 162,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 181,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 37,
         "sd_enemy_table_id": 165,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 182,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 37,
         "sd_enemy_table_id": 168,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 183,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 37,
         "sd_enemy_table_id": 169,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 184,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 37,
         "sd_enemy_table_id": 166,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 185,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 37,
         "sd_enemy_table_id": 167,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 186,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 38,
         "sd_enemy_table_id": 170,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 187,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 38,
         "sd_enemy_table_id": 173,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 188,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 38,
         "sd_enemy_table_id": 174,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 189,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 38,
         "sd_enemy_table_id": 171,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 190,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 38,
         "sd_enemy_table_id": 172,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 191,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 39,
         "sd_enemy_table_id": 175,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 192,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 39,
         "sd_enemy_table_id": 178,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 193,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 39,
         "sd_enemy_table_id": 179,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 194,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 39,
         "sd_enemy_table_id": 176,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 195,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 39,
         "sd_enemy_table_id": 177,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 196,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 40,
         "sd_enemy_table_id": 180,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 197,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 40,
         "sd_enemy_table_id": 183,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 198,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 40,
         "sd_enemy_table_id": 184,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 199,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 40,
         "sd_enemy_table_id": 181,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 200,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 40,
         "sd_enemy_table_id": 182,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 201,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 41,
         "sd_enemy_table_id": 185,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 202,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 41,
         "sd_enemy_table_id": 188,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 203,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 41,
         "sd_enemy_table_id": 189,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 204,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 41,
         "sd_enemy_table_id": 186,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 205,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 41,
         "sd_enemy_table_id": 187,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 206,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 42,
         "sd_enemy_table_id": 190,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 207,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 42,
         "sd_enemy_table_id": 193,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 208,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 42,
         "sd_enemy_table_id": 194,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 209,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 42,
         "sd_enemy_table_id": 191,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 210,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 42,
         "sd_enemy_table_id": 192,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 211,
         "position_x": 0,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 43,
         "sd_enemy_table_id": 195,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 212,
         "position_x": -5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 43,
         "sd_enemy_table_id": 198,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 213,
         "position_x": 5,
         "position_y": 10,
         "respawn_minutes": 0,
         "sd_arena_id": 43,
         "sd_enemy_table_id": 199,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 214,
         "position_x": -7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 43,
         "sd_enemy_table_id": 196,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
     },
     {
-        "created_at": "2022-01-14 02:03:05",
+        "created_at": "2022-03-08 02:03:59",
         "id": 215,
         "position_x": 7,
         "position_y": 2,
         "respawn_minutes": 0,
         "sd_arena_id": 43,
         "sd_enemy_table_id": 197,
-        "updated_at": "2022-01-14 02:03:05"
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 216,
+        "position_x": 0,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 44,
+        "sd_enemy_table_id": 200,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 217,
+        "position_x": -5,
+        "position_y": 10,
+        "respawn_minutes": 0,
+        "sd_arena_id": 44,
+        "sd_enemy_table_id": 203,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 218,
+        "position_x": 5,
+        "position_y": 10,
+        "respawn_minutes": 0,
+        "sd_arena_id": 44,
+        "sd_enemy_table_id": 204,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 219,
+        "position_x": -7,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 44,
+        "sd_enemy_table_id": 201,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 220,
+        "position_x": 7,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 44,
+        "sd_enemy_table_id": 202,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 221,
+        "position_x": 0,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 45,
+        "sd_enemy_table_id": 205,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 222,
+        "position_x": -5,
+        "position_y": 10,
+        "respawn_minutes": 0,
+        "sd_arena_id": 45,
+        "sd_enemy_table_id": 208,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 223,
+        "position_x": 5,
+        "position_y": 10,
+        "respawn_minutes": 0,
+        "sd_arena_id": 45,
+        "sd_enemy_table_id": 209,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 224,
+        "position_x": -7,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 45,
+        "sd_enemy_table_id": 206,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 225,
+        "position_x": 7,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 45,
+        "sd_enemy_table_id": 207,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 226,
+        "position_x": 0,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 46,
+        "sd_enemy_table_id": 210,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 227,
+        "position_x": -5,
+        "position_y": 10,
+        "respawn_minutes": 0,
+        "sd_arena_id": 46,
+        "sd_enemy_table_id": 213,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 228,
+        "position_x": 5,
+        "position_y": 10,
+        "respawn_minutes": 0,
+        "sd_arena_id": 46,
+        "sd_enemy_table_id": 214,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 229,
+        "position_x": -7,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 46,
+        "sd_enemy_table_id": 211,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 230,
+        "position_x": 7,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 46,
+        "sd_enemy_table_id": 212,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 231,
+        "position_x": 0,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 47,
+        "sd_enemy_table_id": 215,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 232,
+        "position_x": -5,
+        "position_y": 10,
+        "respawn_minutes": 0,
+        "sd_arena_id": 47,
+        "sd_enemy_table_id": 218,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 233,
+        "position_x": 5,
+        "position_y": 10,
+        "respawn_minutes": 0,
+        "sd_arena_id": 47,
+        "sd_enemy_table_id": 219,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 234,
+        "position_x": -7,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 47,
+        "sd_enemy_table_id": 216,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 235,
+        "position_x": 7,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 47,
+        "sd_enemy_table_id": 217,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 236,
+        "position_x": 0,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 48,
+        "sd_enemy_table_id": 220,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 237,
+        "position_x": -5,
+        "position_y": 10,
+        "respawn_minutes": 0,
+        "sd_arena_id": 48,
+        "sd_enemy_table_id": 223,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 238,
+        "position_x": 5,
+        "position_y": 10,
+        "respawn_minutes": 0,
+        "sd_arena_id": 48,
+        "sd_enemy_table_id": 224,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 239,
+        "position_x": -7,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 48,
+        "sd_enemy_table_id": 221,
+        "updated_at": "2022-03-08 02:03:59"
+    },
+    {
+        "created_at": "2022-03-08 02:03:59",
+        "id": 240,
+        "position_x": 7,
+        "position_y": 2,
+        "respawn_minutes": 0,
+        "sd_arena_id": 48,
+        "sd_enemy_table_id": 222,
+        "updated_at": "2022-03-08 02:03:59"
     }
 ]

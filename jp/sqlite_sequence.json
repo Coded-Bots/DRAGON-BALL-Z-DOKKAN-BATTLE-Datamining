@@ -1,11 +1,11 @@
 [
     {
         "name": "achievement_categories",
-        "seq": 30076
+        "seq": 30078
     },
     {
         "name": "achievements",
-        "seq": 975
+        "seq": 986
     },
     {
         "name": "act_cure_schedules",
@@ -137,15 +137,15 @@
     },
     {
         "name": "card_awakening_routes",
-        "seq": 4356
+        "seq": 4386
     },
     {
         "name": "card_awakening_sets",
-        "seq": 2458
+        "seq": 2487
     },
     {
         "name": "card_awakenings",
-        "seq": 3082
+        "seq": 3111
     },
     {
         "name": "card_card_categories",
@@ -165,7 +165,7 @@
     },
     {
         "name": "card_decorations",
-        "seq": 309
+        "seq": 311
     },
     {
         "name": "card_exps",
@@ -189,11 +189,11 @@
     },
     {
         "name": "card_specials",
-        "seq": 9854
+        "seq": 9872
     },
     {
         "name": "card_sticker_decoration_relations",
-        "seq": 9381
+        "seq": 9383
     },
     {
         "name": "card_sticker_items",
@@ -293,7 +293,7 @@
     },
     {
         "name": "enemy_skills",
-        "seq": 1000916
+        "seq": 1000967
     },
     {
         "name": "equipment_skill_items",
@@ -317,11 +317,11 @@
     },
     {
         "name": "forced_scripts",
-        "seq": 669
+        "seq": 671
     },
     {
         "name": "related_card_categories",
-        "seq": 1000709
+        "seq": 1000760
     },
     {
         "name": "related_passive_skill_sets",
@@ -353,7 +353,7 @@
     },
     {
         "name": "leader_skills",
-        "seq": 11592
+        "seq": 11598
     },
     {
         "name": "level_bgs",
@@ -377,11 +377,11 @@
     },
     {
         "name": "mission_categories",
-        "seq": 10041
+        "seq": 10042
     },
     {
         "name": "mission_category_rewards",
-        "seq": 269
+        "seq": 271
     },
     {
         "name": "missions",
@@ -397,15 +397,15 @@
     },
     {
         "name": "mission_rewards",
-        "seq": 27227
+        "seq": 27251
     },
     {
         "name": "mission_periods",
-        "seq": 1504
+        "seq": 1516
     },
     {
         "name": "optimal_awakening_growths",
-        "seq": 1739
+        "seq": 1767
     },
     {
         "name": "passive_skills",
@@ -417,11 +417,11 @@
     },
     {
         "name": "passive_skill_sets",
-        "seq": 2798
+        "seq": 2801
     },
     {
         "name": "passive_skill_set_relations",
-        "seq": 8685
+        "seq": 8697
     },
     {
         "name": "points",
@@ -481,7 +481,7 @@
     },
     {
         "name": "quest_category_bonuses",
-        "seq": 540
+        "seq": 543
     },
     {
         "name": "quest_category_bonus_groups",
@@ -525,7 +525,7 @@
     },
     {
         "name": "sd_arenas",
-        "seq": 43
+        "seq": 48
     },
     {
         "name": "sd_characters",
@@ -533,15 +533,15 @@
     },
     {
         "name": "sd_packs",
-        "seq": 600
+        "seq": 601
     },
     {
         "name": "sd_maps",
-        "seq": 10
+        "seq": 11
     },
     {
         "name": "sd_stages",
-        "seq": 215
+        "seq": 240
     },
     {
         "name": "sd_helps",
@@ -561,7 +561,7 @@
     },
     {
         "name": "skill_causalities",
-        "seq": 1372
+        "seq": 1377
     },
     {
         "name": "skill_groups",
@@ -597,7 +597,7 @@
     },
     {
         "name": "special_views",
-        "seq": 9814
+        "seq": 9872
     },
     {
         "name": "status_extensions",
@@ -641,7 +641,7 @@
     },
     {
         "name": "title_screens",
-        "seq": 35
+        "seq": 37
     },
     {
         "name": "transformation_descriptions",
@@ -685,47 +685,47 @@
     },
     {
         "name": "z_battle_check_points",
-        "seq": 482
+        "seq": 489
     },
     {
         "name": "z_battle_enemies",
-        "seq": 107
+        "seq": 109
     },
     {
         "name": "z_battle_enemy_card_escalations",
-        "seq": 329
+        "seq": 832
     },
     {
         "name": "z_battle_enemy_skill_escalations",
-        "seq": 2370
+        "seq": 2479
     },
     {
         "name": "z_battle_enemy_status_escalations",
-        "seq": 2865
+        "seq": 2938
     },
     {
         "name": "z_battle_first_rewards",
-        "seq": 11412
+        "seq": 12030
     },
     {
         "name": "z_battle_first_reward_level_ranges",
-        "seq": 2596
+        "seq": 3609
     },
     {
         "name": "z_battle_normal_reward_tables",
-        "seq": 816
+        "seq": 827
     },
     {
         "name": "z_battle_normal_rewards",
-        "seq": 840
+        "seq": 851
     },
     {
         "name": "z_battle_stages",
-        "seq": 76
+        "seq": 78
     },
     {
         "name": "z_battle_powerup_thresholds",
-        "seq": 95
+        "seq": 97
     },
     {
         "name": "z_battle_powerup_views",
@@ -737,6 +737,6 @@
     },
     {
         "name": "z_battle_stage_views",
-        "seq": 95
+        "seq": 97
     }
 ]

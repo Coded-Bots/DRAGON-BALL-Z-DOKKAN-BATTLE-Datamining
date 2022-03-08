@@ -1613,5 +1613,24 @@
         "start_level": 7,
         "updated_at": "2022-02-24 10:13:51",
         "z_battle_stage_id": 76
+    },
+    {
+        "attack_escalation_type": 758,
+        "base_attack": 17000,
+        "base_defence": 2500,
+        "base_hp": 300000,
+        "card_escalation_type": 761,
+        "created_at": "2022-02-25 13:22:25",
+        "defence_escalation_type": 759,
+        "end_level": null,
+        "hp_escalation_type": 757,
+        "id": 109,
+        "ordinal_num": 1,
+        "performance_escalation_type": 762,
+        "skill_escalation_type": 763,
+        "special_attack_escalation_type": 760,
+        "start_level": 1,
+        "updated_at": "2022-03-05 06:29:48",
+        "z_battle_stage_id": 78
     }
 ]

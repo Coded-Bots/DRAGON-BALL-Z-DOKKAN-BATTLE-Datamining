@@ -19636,5 +19636,3812 @@
         "updated_at": "2022-02-19 20:20:08",
         "z_battle_first_reward_set_id": 2530,
         "z_battle_stage_id": 76
+    },
+    {
+        "created_at": "2022-02-25 13:22:19",
+        "id": 2628,
+        "level": 1,
+        "main_reward_id": 12025,
+        "updated_at": "2022-03-02 05:56:31",
+        "z_battle_first_reward_set_id": 2624,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:19",
+        "id": 2629,
+        "level": 6,
+        "main_reward_id": 12019,
+        "updated_at": "2022-02-28 07:15:38",
+        "z_battle_first_reward_set_id": 2562,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:19",
+        "id": 2631,
+        "level": 10,
+        "main_reward_id": 11521,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2563,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:19",
+        "id": 2632,
+        "level": 11,
+        "main_reward_id": 12019,
+        "updated_at": "2022-02-28 07:15:38",
+        "z_battle_first_reward_set_id": 2562,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:19",
+        "id": 2633,
+        "level": 15,
+        "main_reward_id": 11521,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2563,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:19",
+        "id": 2634,
+        "level": 16,
+        "main_reward_id": 12019,
+        "updated_at": "2022-02-28 07:15:38",
+        "z_battle_first_reward_set_id": 2562,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2635,
+        "level": 20,
+        "main_reward_id": 11521,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2563,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2636,
+        "level": 21,
+        "main_reward_id": 12019,
+        "updated_at": "2022-02-28 07:15:38",
+        "z_battle_first_reward_set_id": 2562,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2637,
+        "level": 25,
+        "main_reward_id": 11521,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2563,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2638,
+        "level": 26,
+        "main_reward_id": 12019,
+        "updated_at": "2022-02-28 07:15:38",
+        "z_battle_first_reward_set_id": 2562,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2639,
+        "level": 30,
+        "main_reward_id": 11521,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2563,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2640,
+        "level": 31,
+        "main_reward_id": 12019,
+        "updated_at": "2022-02-28 07:15:38",
+        "z_battle_first_reward_set_id": 2562,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2641,
+        "level": 34,
+        "main_reward_id": 11875,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2564,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2642,
+        "level": 35,
+        "main_reward_id": 11532,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2565,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2643,
+        "level": 36,
+        "main_reward_id": 11875,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2564,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2644,
+        "level": 40,
+        "main_reward_id": 11532,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2565,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2645,
+        "level": 41,
+        "main_reward_id": 11875,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2564,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2646,
+        "level": 45,
+        "main_reward_id": 11532,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2565,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2647,
+        "level": 46,
+        "main_reward_id": 11875,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2564,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2648,
+        "level": 50,
+        "main_reward_id": 11532,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2565,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2649,
+        "level": 51,
+        "main_reward_id": 11875,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2564,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2650,
+        "level": 55,
+        "main_reward_id": 11532,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2565,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2651,
+        "level": 56,
+        "main_reward_id": 11875,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2564,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2652,
+        "level": 60,
+        "main_reward_id": 11532,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2565,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2653,
+        "level": 61,
+        "main_reward_id": 11875,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2564,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2654,
+        "level": 65,
+        "main_reward_id": 11532,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2565,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2655,
+        "level": 66,
+        "main_reward_id": 11875,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2564,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2656,
+        "level": 67,
+        "main_reward_id": 11880,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2566,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2657,
+        "level": 70,
+        "main_reward_id": 11543,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2567,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2658,
+        "level": 71,
+        "main_reward_id": 11880,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2566,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2659,
+        "level": 75,
+        "main_reward_id": 11543,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2567,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2660,
+        "level": 76,
+        "main_reward_id": 11880,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2566,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2661,
+        "level": 80,
+        "main_reward_id": 11543,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2567,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2662,
+        "level": 81,
+        "main_reward_id": 11880,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2566,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2663,
+        "level": 85,
+        "main_reward_id": 11543,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2567,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2664,
+        "level": 86,
+        "main_reward_id": 11880,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2566,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2665,
+        "level": 90,
+        "main_reward_id": 11543,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2567,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2666,
+        "level": 91,
+        "main_reward_id": 11880,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2566,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2667,
+        "level": 95,
+        "main_reward_id": 11543,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2567,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2668,
+        "level": 99,
+        "main_reward_id": 11880,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2566,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2669,
+        "level": 100,
+        "main_reward_id": 12024,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2568,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2670,
+        "level": 101,
+        "main_reward_id": 11889,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2569,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2671,
+        "level": 105,
+        "main_reward_id": 11556,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2570,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2672,
+        "level": 106,
+        "main_reward_id": 11889,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2569,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2673,
+        "level": 110,
+        "main_reward_id": 11556,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2570,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2674,
+        "level": 111,
+        "main_reward_id": 11889,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2569,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2675,
+        "level": 115,
+        "main_reward_id": 11556,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2570,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2676,
+        "level": 116,
+        "main_reward_id": 11889,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2569,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2677,
+        "level": 120,
+        "main_reward_id": 11556,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2570,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2678,
+        "level": 121,
+        "main_reward_id": 11889,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2569,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2679,
+        "level": 125,
+        "main_reward_id": 11556,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2570,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2680,
+        "level": 126,
+        "main_reward_id": 11889,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2569,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2681,
+        "level": 130,
+        "main_reward_id": 11556,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2570,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2682,
+        "level": 131,
+        "main_reward_id": 11889,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2569,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2683,
+        "level": 134,
+        "main_reward_id": 11894,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2571,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2684,
+        "level": 135,
+        "main_reward_id": 11567,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2572,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2685,
+        "level": 136,
+        "main_reward_id": 11894,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2571,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2686,
+        "level": 140,
+        "main_reward_id": 11567,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2572,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2687,
+        "level": 141,
+        "main_reward_id": 11894,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2571,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2688,
+        "level": 145,
+        "main_reward_id": 11567,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2572,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2689,
+        "level": 146,
+        "main_reward_id": 11894,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2571,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2690,
+        "level": 150,
+        "main_reward_id": 11567,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2572,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2691,
+        "level": 151,
+        "main_reward_id": 11894,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2571,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2692,
+        "level": 155,
+        "main_reward_id": 11567,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2572,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2693,
+        "level": 156,
+        "main_reward_id": 11894,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2571,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2694,
+        "level": 160,
+        "main_reward_id": 11567,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2572,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2695,
+        "level": 161,
+        "main_reward_id": 11894,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2571,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2696,
+        "level": 165,
+        "main_reward_id": 11567,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2572,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2697,
+        "level": 166,
+        "main_reward_id": 11894,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2571,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2698,
+        "level": 167,
+        "main_reward_id": 11899,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2573,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2699,
+        "level": 170,
+        "main_reward_id": 11578,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2574,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2700,
+        "level": 171,
+        "main_reward_id": 11899,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2573,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2701,
+        "level": 175,
+        "main_reward_id": 11578,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2574,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2702,
+        "level": 176,
+        "main_reward_id": 11899,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2573,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2703,
+        "level": 180,
+        "main_reward_id": 11578,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2574,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2704,
+        "level": 181,
+        "main_reward_id": 11899,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2573,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2705,
+        "level": 185,
+        "main_reward_id": 11578,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2574,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2706,
+        "level": 186,
+        "main_reward_id": 11899,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2573,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2707,
+        "level": 190,
+        "main_reward_id": 11578,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2574,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2708,
+        "level": 191,
+        "main_reward_id": 11899,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2573,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2709,
+        "level": 195,
+        "main_reward_id": 11578,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2574,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2710,
+        "level": 196,
+        "main_reward_id": 11899,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2573,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2711,
+        "level": 199,
+        "main_reward_id": 11899,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2573,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2712,
+        "level": 200,
+        "main_reward_id": 12024,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2568,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2713,
+        "level": 201,
+        "main_reward_id": 11904,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2575,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2714,
+        "level": 205,
+        "main_reward_id": 11589,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2576,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2715,
+        "level": 206,
+        "main_reward_id": 11904,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2575,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2716,
+        "level": 210,
+        "main_reward_id": 11589,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2576,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2717,
+        "level": 211,
+        "main_reward_id": 11904,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2575,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2718,
+        "level": 215,
+        "main_reward_id": 11589,
+        "updated_at": "2022-02-25 13:22:20",
+        "z_battle_first_reward_set_id": 2576,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:20",
+        "id": 2719,
+        "level": 216,
+        "main_reward_id": 11904,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2575,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2720,
+        "level": 220,
+        "main_reward_id": 11589,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2576,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2721,
+        "level": 221,
+        "main_reward_id": 11904,
+        "updated_at": "2022-02-28 02:35:11",
+        "z_battle_first_reward_set_id": 2575,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2722,
+        "level": 225,
+        "main_reward_id": 11589,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2576,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2723,
+        "level": 226,
+        "main_reward_id": 11904,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2575,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2724,
+        "level": 230,
+        "main_reward_id": 11589,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2576,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2725,
+        "level": 231,
+        "main_reward_id": 11904,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2575,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2726,
+        "level": 234,
+        "main_reward_id": 11909,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2577,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2727,
+        "level": 235,
+        "main_reward_id": 11600,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2578,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2728,
+        "level": 236,
+        "main_reward_id": 11909,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2577,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2729,
+        "level": 240,
+        "main_reward_id": 11600,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2578,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2730,
+        "level": 245,
+        "main_reward_id": 11600,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2578,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2731,
+        "level": 246,
+        "main_reward_id": 11909,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2577,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2732,
+        "level": 250,
+        "main_reward_id": 11600,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2578,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2733,
+        "level": 251,
+        "main_reward_id": 11909,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2577,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2734,
+        "level": 255,
+        "main_reward_id": 11600,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2578,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2735,
+        "level": 256,
+        "main_reward_id": 11909,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2577,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2736,
+        "level": 260,
+        "main_reward_id": 11600,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2578,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2737,
+        "level": 261,
+        "main_reward_id": 11909,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2577,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2738,
+        "level": 265,
+        "main_reward_id": 11600,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2578,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2739,
+        "level": 266,
+        "main_reward_id": 11909,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2577,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2740,
+        "level": 267,
+        "main_reward_id": 11914,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2579,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2741,
+        "level": 270,
+        "main_reward_id": 11611,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2580,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2742,
+        "level": 271,
+        "main_reward_id": 11914,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2579,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2743,
+        "level": 275,
+        "main_reward_id": 11611,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2580,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2744,
+        "level": 276,
+        "main_reward_id": 11914,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2579,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2745,
+        "level": 280,
+        "main_reward_id": 11611,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2580,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2746,
+        "level": 281,
+        "main_reward_id": 11914,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2579,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2747,
+        "level": 285,
+        "main_reward_id": 11611,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2580,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2748,
+        "level": 286,
+        "main_reward_id": 11914,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2579,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2749,
+        "level": 290,
+        "main_reward_id": 11611,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2580,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2750,
+        "level": 291,
+        "main_reward_id": 11914,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2579,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2751,
+        "level": 295,
+        "main_reward_id": 11611,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2580,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2752,
+        "level": 296,
+        "main_reward_id": 11914,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2579,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2753,
+        "level": 300,
+        "main_reward_id": 12024,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2568,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2754,
+        "level": 301,
+        "main_reward_id": 11919,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2581,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2755,
+        "level": 305,
+        "main_reward_id": 11622,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2582,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2756,
+        "level": 306,
+        "main_reward_id": 11919,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2581,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2757,
+        "level": 310,
+        "main_reward_id": 11622,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2582,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2758,
+        "level": 311,
+        "main_reward_id": 11919,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2581,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2759,
+        "level": 315,
+        "main_reward_id": 11622,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2582,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2760,
+        "level": 316,
+        "main_reward_id": 11919,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2581,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2761,
+        "level": 320,
+        "main_reward_id": 11622,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2582,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2762,
+        "level": 321,
+        "main_reward_id": 11919,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2581,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2763,
+        "level": 325,
+        "main_reward_id": 11622,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2582,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2764,
+        "level": 326,
+        "main_reward_id": 11919,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2581,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2765,
+        "level": 330,
+        "main_reward_id": 11622,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2582,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2766,
+        "level": 331,
+        "main_reward_id": 11919,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2581,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2767,
+        "level": 334,
+        "main_reward_id": 11924,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2583,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2768,
+        "level": 335,
+        "main_reward_id": 11633,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2584,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2769,
+        "level": 336,
+        "main_reward_id": 11924,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2583,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2770,
+        "level": 340,
+        "main_reward_id": 11633,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2584,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2771,
+        "level": 341,
+        "main_reward_id": 11924,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2583,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2772,
+        "level": 345,
+        "main_reward_id": 11633,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2584,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2773,
+        "level": 346,
+        "main_reward_id": 11924,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2583,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2774,
+        "level": 350,
+        "main_reward_id": 11633,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2584,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2775,
+        "level": 351,
+        "main_reward_id": 11924,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2583,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2776,
+        "level": 355,
+        "main_reward_id": 11633,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2584,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2777,
+        "level": 356,
+        "main_reward_id": 11924,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2583,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2778,
+        "level": 360,
+        "main_reward_id": 11633,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2584,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2779,
+        "level": 361,
+        "main_reward_id": 11924,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2583,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2780,
+        "level": 365,
+        "main_reward_id": 11633,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2584,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2781,
+        "level": 366,
+        "main_reward_id": 11924,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2583,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2782,
+        "level": 367,
+        "main_reward_id": 11929,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2585,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2783,
+        "level": 370,
+        "main_reward_id": 11644,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2586,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2784,
+        "level": 371,
+        "main_reward_id": 11929,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2585,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2785,
+        "level": 375,
+        "main_reward_id": 11644,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2586,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2786,
+        "level": 376,
+        "main_reward_id": 11929,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2585,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2787,
+        "level": 380,
+        "main_reward_id": 11644,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2586,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2788,
+        "level": 381,
+        "main_reward_id": 11929,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2585,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2789,
+        "level": 385,
+        "main_reward_id": 11644,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2586,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2790,
+        "level": 386,
+        "main_reward_id": 11929,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2585,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2791,
+        "level": 390,
+        "main_reward_id": 11644,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2586,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2792,
+        "level": 391,
+        "main_reward_id": 11929,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2585,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2793,
+        "level": 395,
+        "main_reward_id": 11644,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2586,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2794,
+        "level": 396,
+        "main_reward_id": 11929,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2585,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2795,
+        "level": 400,
+        "main_reward_id": 12024,
+        "updated_at": "2022-03-02 05:26:47",
+        "z_battle_first_reward_set_id": 2568,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2796,
+        "level": 401,
+        "main_reward_id": 11934,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2587,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2797,
+        "level": 405,
+        "main_reward_id": 11655,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2588,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2798,
+        "level": 406,
+        "main_reward_id": 11934,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2587,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2799,
+        "level": 410,
+        "main_reward_id": 11655,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2588,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2800,
+        "level": 411,
+        "main_reward_id": 11934,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2587,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2801,
+        "level": 415,
+        "main_reward_id": 11655,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2588,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2802,
+        "level": 416,
+        "main_reward_id": 11934,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2587,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2803,
+        "level": 420,
+        "main_reward_id": 11655,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2588,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2804,
+        "level": 421,
+        "main_reward_id": 11934,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2587,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2805,
+        "level": 425,
+        "main_reward_id": 11655,
+        "updated_at": "2022-02-25 13:22:21",
+        "z_battle_first_reward_set_id": 2588,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:21",
+        "id": 2806,
+        "level": 426,
+        "main_reward_id": 11934,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2587,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2807,
+        "level": 430,
+        "main_reward_id": 11655,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2588,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2808,
+        "level": 431,
+        "main_reward_id": 11934,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2587,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2809,
+        "level": 434,
+        "main_reward_id": 11939,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2589,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2810,
+        "level": 435,
+        "main_reward_id": 11666,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2590,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2811,
+        "level": 436,
+        "main_reward_id": 11939,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2589,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2812,
+        "level": 440,
+        "main_reward_id": 11666,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2590,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2813,
+        "level": 441,
+        "main_reward_id": 11939,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2589,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2814,
+        "level": 445,
+        "main_reward_id": 11666,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2590,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2815,
+        "level": 446,
+        "main_reward_id": 11939,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2589,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2816,
+        "level": 450,
+        "main_reward_id": 11666,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2590,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2817,
+        "level": 451,
+        "main_reward_id": 11939,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2589,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2818,
+        "level": 455,
+        "main_reward_id": 11666,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2590,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2819,
+        "level": 456,
+        "main_reward_id": 11939,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2589,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2820,
+        "level": 460,
+        "main_reward_id": 11666,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2590,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2821,
+        "level": 461,
+        "main_reward_id": 11939,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2589,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2822,
+        "level": 465,
+        "main_reward_id": 11666,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2590,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2823,
+        "level": 466,
+        "main_reward_id": 11939,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2589,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2824,
+        "level": 467,
+        "main_reward_id": 11944,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2591,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2825,
+        "level": 470,
+        "main_reward_id": 11677,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2592,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2826,
+        "level": 471,
+        "main_reward_id": 11944,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2591,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2827,
+        "level": 475,
+        "main_reward_id": 11677,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2592,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2828,
+        "level": 476,
+        "main_reward_id": 11944,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2591,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2829,
+        "level": 480,
+        "main_reward_id": 11677,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2592,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2830,
+        "level": 481,
+        "main_reward_id": 11944,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2591,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2831,
+        "level": 485,
+        "main_reward_id": 11677,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2592,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2832,
+        "level": 486,
+        "main_reward_id": 11944,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2591,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2833,
+        "level": 490,
+        "main_reward_id": 11677,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2592,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2834,
+        "level": 491,
+        "main_reward_id": 11944,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2591,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2835,
+        "level": 495,
+        "main_reward_id": 11677,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2592,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2836,
+        "level": 496,
+        "main_reward_id": 11944,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2591,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2837,
+        "level": 500,
+        "main_reward_id": 12024,
+        "updated_at": "2022-03-02 05:26:47",
+        "z_battle_first_reward_set_id": 2568,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2838,
+        "level": 501,
+        "main_reward_id": 11949,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2593,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2839,
+        "level": 505,
+        "main_reward_id": 11688,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2594,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2840,
+        "level": 506,
+        "main_reward_id": 11949,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2593,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2841,
+        "level": 510,
+        "main_reward_id": 11688,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2594,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2842,
+        "level": 511,
+        "main_reward_id": 11949,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2593,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2843,
+        "level": 515,
+        "main_reward_id": 11688,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2594,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2844,
+        "level": 516,
+        "main_reward_id": 11949,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2593,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2845,
+        "level": 520,
+        "main_reward_id": 11688,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2594,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2846,
+        "level": 521,
+        "main_reward_id": 11949,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2593,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2847,
+        "level": 525,
+        "main_reward_id": 11688,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2594,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2848,
+        "level": 526,
+        "main_reward_id": 11949,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2593,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2849,
+        "level": 530,
+        "main_reward_id": 11688,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2594,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2850,
+        "level": 531,
+        "main_reward_id": 11949,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2593,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2851,
+        "level": 534,
+        "main_reward_id": 11954,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2595,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2852,
+        "level": 535,
+        "main_reward_id": 11699,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2596,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2853,
+        "level": 536,
+        "main_reward_id": 11954,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2595,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2854,
+        "level": 540,
+        "main_reward_id": 11699,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2596,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2855,
+        "level": 541,
+        "main_reward_id": 11954,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2595,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2856,
+        "level": 545,
+        "main_reward_id": 11699,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2596,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2857,
+        "level": 546,
+        "main_reward_id": 11954,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2595,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2858,
+        "level": 550,
+        "main_reward_id": 11699,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2596,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2859,
+        "level": 551,
+        "main_reward_id": 11954,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2595,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2860,
+        "level": 555,
+        "main_reward_id": 11699,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2596,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2861,
+        "level": 556,
+        "main_reward_id": 11954,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2595,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2862,
+        "level": 560,
+        "main_reward_id": 11699,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2596,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2863,
+        "level": 561,
+        "main_reward_id": 11954,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2595,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2864,
+        "level": 565,
+        "main_reward_id": 11699,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2596,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2865,
+        "level": 566,
+        "main_reward_id": 11954,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2595,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2866,
+        "level": 567,
+        "main_reward_id": 11959,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2597,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2867,
+        "level": 570,
+        "main_reward_id": 11710,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2598,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2868,
+        "level": 571,
+        "main_reward_id": 11959,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2597,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2869,
+        "level": 575,
+        "main_reward_id": 11710,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2598,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2870,
+        "level": 576,
+        "main_reward_id": 11959,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2597,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2871,
+        "level": 580,
+        "main_reward_id": 11710,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2598,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2872,
+        "level": 581,
+        "main_reward_id": 11959,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2597,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2873,
+        "level": 585,
+        "main_reward_id": 11710,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2598,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2874,
+        "level": 586,
+        "main_reward_id": 11959,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2597,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2875,
+        "level": 590,
+        "main_reward_id": 11710,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2598,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2876,
+        "level": 591,
+        "main_reward_id": 11959,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2597,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2877,
+        "level": 595,
+        "main_reward_id": 11710,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2598,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2878,
+        "level": 596,
+        "main_reward_id": 11959,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2597,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2879,
+        "level": 600,
+        "main_reward_id": 12024,
+        "updated_at": "2022-03-02 05:26:47",
+        "z_battle_first_reward_set_id": 2568,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2880,
+        "level": 601,
+        "main_reward_id": 11964,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2599,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2881,
+        "level": 605,
+        "main_reward_id": 11721,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2600,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2882,
+        "level": 606,
+        "main_reward_id": 11964,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2599,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2883,
+        "level": 610,
+        "main_reward_id": 11721,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2600,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2884,
+        "level": 611,
+        "main_reward_id": 11964,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2599,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2885,
+        "level": 615,
+        "main_reward_id": 11721,
+        "updated_at": "2022-02-25 13:22:22",
+        "z_battle_first_reward_set_id": 2600,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:22",
+        "id": 2886,
+        "level": 616,
+        "main_reward_id": 11964,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2599,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2887,
+        "level": 620,
+        "main_reward_id": 11721,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2600,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2888,
+        "level": 621,
+        "main_reward_id": 11964,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2599,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2889,
+        "level": 625,
+        "main_reward_id": 11721,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2600,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2890,
+        "level": 626,
+        "main_reward_id": 11964,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2599,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2891,
+        "level": 630,
+        "main_reward_id": 11721,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2600,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2892,
+        "level": 631,
+        "main_reward_id": 11964,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2599,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2893,
+        "level": 634,
+        "main_reward_id": 11969,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2601,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2894,
+        "level": 635,
+        "main_reward_id": 11732,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2602,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2895,
+        "level": 636,
+        "main_reward_id": 11969,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2601,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2896,
+        "level": 640,
+        "main_reward_id": 11732,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2602,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2897,
+        "level": 641,
+        "main_reward_id": 11969,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2601,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2898,
+        "level": 645,
+        "main_reward_id": 11732,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2602,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2899,
+        "level": 646,
+        "main_reward_id": 11969,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2601,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2900,
+        "level": 650,
+        "main_reward_id": 11732,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2602,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2901,
+        "level": 651,
+        "main_reward_id": 11969,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2601,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2902,
+        "level": 655,
+        "main_reward_id": 11732,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2602,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2903,
+        "level": 656,
+        "main_reward_id": 11969,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2601,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2904,
+        "level": 660,
+        "main_reward_id": 11732,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2602,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2905,
+        "level": 661,
+        "main_reward_id": 11969,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2601,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2906,
+        "level": 665,
+        "main_reward_id": 11732,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2602,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2907,
+        "level": 666,
+        "main_reward_id": 11969,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2601,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2908,
+        "level": 667,
+        "main_reward_id": 11974,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2603,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2909,
+        "level": 670,
+        "main_reward_id": 11743,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2604,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2910,
+        "level": 671,
+        "main_reward_id": 11974,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2603,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2911,
+        "level": 675,
+        "main_reward_id": 11743,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2604,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2912,
+        "level": 676,
+        "main_reward_id": 11974,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2603,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2913,
+        "level": 680,
+        "main_reward_id": 11743,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2604,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2914,
+        "level": 681,
+        "main_reward_id": 11974,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2603,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2915,
+        "level": 685,
+        "main_reward_id": 11743,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2604,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2916,
+        "level": 686,
+        "main_reward_id": 11974,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2603,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2917,
+        "level": 690,
+        "main_reward_id": 11743,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2604,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2918,
+        "level": 691,
+        "main_reward_id": 11974,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2603,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2919,
+        "level": 695,
+        "main_reward_id": 11743,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2604,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2920,
+        "level": 696,
+        "main_reward_id": 11974,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2603,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2921,
+        "level": 700,
+        "main_reward_id": 12024,
+        "updated_at": "2022-03-02 05:26:47",
+        "z_battle_first_reward_set_id": 2568,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2922,
+        "level": 701,
+        "main_reward_id": 11979,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2605,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2923,
+        "level": 705,
+        "main_reward_id": 11754,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2606,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2924,
+        "level": 706,
+        "main_reward_id": 11979,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2605,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2925,
+        "level": 710,
+        "main_reward_id": 11754,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2606,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2926,
+        "level": 711,
+        "main_reward_id": 11979,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2605,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2927,
+        "level": 715,
+        "main_reward_id": 11754,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2606,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2928,
+        "level": 716,
+        "main_reward_id": 11979,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2605,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2929,
+        "level": 720,
+        "main_reward_id": 11754,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2606,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2930,
+        "level": 721,
+        "main_reward_id": 11979,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2605,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2931,
+        "level": 725,
+        "main_reward_id": 11754,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2606,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2932,
+        "level": 726,
+        "main_reward_id": 11979,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2605,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2933,
+        "level": 730,
+        "main_reward_id": 11754,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2606,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2934,
+        "level": 731,
+        "main_reward_id": 11979,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2605,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2935,
+        "level": 734,
+        "main_reward_id": 11984,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2607,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2936,
+        "level": 735,
+        "main_reward_id": 11765,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2608,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2937,
+        "level": 736,
+        "main_reward_id": 11984,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2607,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2938,
+        "level": 740,
+        "main_reward_id": 11765,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2608,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2939,
+        "level": 741,
+        "main_reward_id": 11984,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2607,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2940,
+        "level": 745,
+        "main_reward_id": 11765,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2608,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2941,
+        "level": 746,
+        "main_reward_id": 11984,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2607,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2942,
+        "level": 750,
+        "main_reward_id": 11765,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2608,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2943,
+        "level": 751,
+        "main_reward_id": 11984,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2607,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2944,
+        "level": 755,
+        "main_reward_id": 11765,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2608,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2945,
+        "level": 756,
+        "main_reward_id": 11984,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2607,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2946,
+        "level": 760,
+        "main_reward_id": 11765,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2608,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2947,
+        "level": 761,
+        "main_reward_id": 11984,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2607,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2948,
+        "level": 765,
+        "main_reward_id": 11765,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2608,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2949,
+        "level": 766,
+        "main_reward_id": 11984,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2607,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2950,
+        "level": 767,
+        "main_reward_id": 11989,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2609,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2951,
+        "level": 770,
+        "main_reward_id": 11776,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2610,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2952,
+        "level": 771,
+        "main_reward_id": 11989,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2609,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2953,
+        "level": 775,
+        "main_reward_id": 11776,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2610,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2954,
+        "level": 776,
+        "main_reward_id": 11989,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2609,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2955,
+        "level": 780,
+        "main_reward_id": 11776,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2610,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2956,
+        "level": 781,
+        "main_reward_id": 11989,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2609,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2957,
+        "level": 785,
+        "main_reward_id": 11776,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2610,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2958,
+        "level": 786,
+        "main_reward_id": 11989,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2609,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2959,
+        "level": 790,
+        "main_reward_id": 11776,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2610,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2960,
+        "level": 791,
+        "main_reward_id": 11989,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2609,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2961,
+        "level": 795,
+        "main_reward_id": 11776,
+        "updated_at": "2022-02-25 13:22:23",
+        "z_battle_first_reward_set_id": 2610,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2962,
+        "level": 796,
+        "main_reward_id": 11989,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2609,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2963,
+        "level": 800,
+        "main_reward_id": 12024,
+        "updated_at": "2022-03-02 05:26:47",
+        "z_battle_first_reward_set_id": 2568,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:23",
+        "id": 2964,
+        "level": 801,
+        "main_reward_id": 11994,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2611,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2965,
+        "level": 805,
+        "main_reward_id": 11787,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2612,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2966,
+        "level": 806,
+        "main_reward_id": 11994,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2611,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2967,
+        "level": 810,
+        "main_reward_id": 11787,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2612,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2968,
+        "level": 811,
+        "main_reward_id": 11994,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2611,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2969,
+        "level": 815,
+        "main_reward_id": 11787,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2612,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2970,
+        "level": 816,
+        "main_reward_id": 11994,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2611,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2971,
+        "level": 820,
+        "main_reward_id": 11787,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2612,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2972,
+        "level": 821,
+        "main_reward_id": 11994,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2611,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2973,
+        "level": 825,
+        "main_reward_id": 11787,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2612,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2974,
+        "level": 826,
+        "main_reward_id": 11994,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2611,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2975,
+        "level": 830,
+        "main_reward_id": 11787,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2612,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2976,
+        "level": 831,
+        "main_reward_id": 11994,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2611,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2977,
+        "level": 834,
+        "main_reward_id": 11999,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2613,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2978,
+        "level": 835,
+        "main_reward_id": 11798,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2614,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2979,
+        "level": 836,
+        "main_reward_id": 11999,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2613,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2980,
+        "level": 840,
+        "main_reward_id": 11798,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2614,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2981,
+        "level": 841,
+        "main_reward_id": 11999,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2613,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2982,
+        "level": 845,
+        "main_reward_id": 11798,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2614,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2983,
+        "level": 846,
+        "main_reward_id": 11999,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2613,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2984,
+        "level": 850,
+        "main_reward_id": 11798,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2614,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2985,
+        "level": 851,
+        "main_reward_id": 11999,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2613,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2986,
+        "level": 855,
+        "main_reward_id": 11798,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2614,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2987,
+        "level": 856,
+        "main_reward_id": 11999,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2613,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2988,
+        "level": 860,
+        "main_reward_id": 11798,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2614,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2989,
+        "level": 861,
+        "main_reward_id": 11999,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2613,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2990,
+        "level": 865,
+        "main_reward_id": 11798,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2614,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2991,
+        "level": 866,
+        "main_reward_id": 11999,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2613,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2992,
+        "level": 867,
+        "main_reward_id": 12004,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2615,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2993,
+        "level": 870,
+        "main_reward_id": 11809,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2616,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2994,
+        "level": 871,
+        "main_reward_id": 12004,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2615,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2995,
+        "level": 875,
+        "main_reward_id": 11809,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2616,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2996,
+        "level": 876,
+        "main_reward_id": 12004,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2615,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2997,
+        "level": 880,
+        "main_reward_id": 11809,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2616,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2998,
+        "level": 881,
+        "main_reward_id": 12004,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2615,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 2999,
+        "level": 885,
+        "main_reward_id": 11809,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2616,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3000,
+        "level": 886,
+        "main_reward_id": 12004,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2615,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3001,
+        "level": 890,
+        "main_reward_id": 11809,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2616,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3002,
+        "level": 891,
+        "main_reward_id": 12004,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2615,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3003,
+        "level": 895,
+        "main_reward_id": 11809,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2616,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3004,
+        "level": 896,
+        "main_reward_id": 12004,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2615,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3005,
+        "level": 900,
+        "main_reward_id": 12024,
+        "updated_at": "2022-03-02 05:26:47",
+        "z_battle_first_reward_set_id": 2568,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3006,
+        "level": 901,
+        "main_reward_id": 12009,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2617,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3007,
+        "level": 905,
+        "main_reward_id": 11820,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2618,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3008,
+        "level": 906,
+        "main_reward_id": 12009,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2617,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3009,
+        "level": 910,
+        "main_reward_id": 11820,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2618,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3010,
+        "level": 911,
+        "main_reward_id": 12009,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2617,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3011,
+        "level": 915,
+        "main_reward_id": 11820,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2618,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3012,
+        "level": 916,
+        "main_reward_id": 12009,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2617,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3013,
+        "level": 920,
+        "main_reward_id": 11820,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2618,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3014,
+        "level": 921,
+        "main_reward_id": 12009,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2617,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3015,
+        "level": 925,
+        "main_reward_id": 11820,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2618,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3016,
+        "level": 926,
+        "main_reward_id": 12009,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2617,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3017,
+        "level": 930,
+        "main_reward_id": 11820,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2618,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3018,
+        "level": 931,
+        "main_reward_id": 12009,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2617,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3019,
+        "level": 934,
+        "main_reward_id": 12014,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2619,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3020,
+        "level": 935,
+        "main_reward_id": 11831,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2620,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3021,
+        "level": 936,
+        "main_reward_id": 12014,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2619,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3022,
+        "level": 940,
+        "main_reward_id": 11831,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2620,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3023,
+        "level": 941,
+        "main_reward_id": 12014,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2619,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3024,
+        "level": 945,
+        "main_reward_id": 11831,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2620,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3025,
+        "level": 946,
+        "main_reward_id": 12014,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2619,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3026,
+        "level": 950,
+        "main_reward_id": 11831,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2620,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3027,
+        "level": 951,
+        "main_reward_id": 12014,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2619,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3028,
+        "level": 955,
+        "main_reward_id": 11831,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2620,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3029,
+        "level": 956,
+        "main_reward_id": 12014,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2619,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3030,
+        "level": 960,
+        "main_reward_id": 11831,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2620,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3031,
+        "level": 961,
+        "main_reward_id": 12014,
+        "updated_at": "2022-03-03 01:37:15",
+        "z_battle_first_reward_set_id": 2619,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3032,
+        "level": 965,
+        "main_reward_id": 11831,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2620,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3033,
+        "level": 966,
+        "main_reward_id": 12014,
+        "updated_at": "2022-02-28 02:35:13",
+        "z_battle_first_reward_set_id": 2619,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3034,
+        "level": 967,
+        "main_reward_id": 11837,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2621,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3035,
+        "level": 970,
+        "main_reward_id": 11842,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2622,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3036,
+        "level": 971,
+        "main_reward_id": 11837,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2621,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3037,
+        "level": 975,
+        "main_reward_id": 11842,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2622,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3038,
+        "level": 976,
+        "main_reward_id": 11837,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2621,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3039,
+        "level": 980,
+        "main_reward_id": 11842,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2622,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:24",
+        "id": 3040,
+        "level": 981,
+        "main_reward_id": 11837,
+        "updated_at": "2022-02-25 13:22:24",
+        "z_battle_first_reward_set_id": 2621,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:25",
+        "id": 3041,
+        "level": 985,
+        "main_reward_id": 11842,
+        "updated_at": "2022-02-25 13:22:25",
+        "z_battle_first_reward_set_id": 2622,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:25",
+        "id": 3042,
+        "level": 986,
+        "main_reward_id": 11837,
+        "updated_at": "2022-02-25 13:22:25",
+        "z_battle_first_reward_set_id": 2621,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:25",
+        "id": 3043,
+        "level": 990,
+        "main_reward_id": 11842,
+        "updated_at": "2022-02-25 13:22:25",
+        "z_battle_first_reward_set_id": 2622,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:25",
+        "id": 3044,
+        "level": 991,
+        "main_reward_id": 11837,
+        "updated_at": "2022-02-25 13:22:25",
+        "z_battle_first_reward_set_id": 2621,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:25",
+        "id": 3045,
+        "level": 995,
+        "main_reward_id": 11842,
+        "updated_at": "2022-02-25 13:22:25",
+        "z_battle_first_reward_set_id": 2622,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:25",
+        "id": 3046,
+        "level": 996,
+        "main_reward_id": 11837,
+        "updated_at": "2022-02-25 13:22:25",
+        "z_battle_first_reward_set_id": 2621,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-25 13:22:25",
+        "id": 3047,
+        "level": 999,
+        "main_reward_id": 11848,
+        "updated_at": "2022-02-25 13:22:25",
+        "z_battle_first_reward_set_id": 2623,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-28 02:35:12",
+        "id": 3606,
+        "level": 241,
+        "main_reward_id": 11909,
+        "updated_at": "2022-02-28 02:35:12",
+        "z_battle_first_reward_set_id": 2577,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-02-28 02:43:08",
+        "id": 3607,
+        "level": 5,
+        "main_reward_id": 11521,
+        "updated_at": "2022-02-28 02:43:08",
+        "z_battle_first_reward_set_id": 2563,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-03-02 05:56:31",
+        "id": 3608,
+        "level": 2,
+        "main_reward_id": 12019,
+        "updated_at": "2022-03-02 05:56:31",
+        "z_battle_first_reward_set_id": 2562,
+        "z_battle_stage_id": 78
+    },
+    {
+        "created_at": "2022-03-03 09:38:54",
+        "id": 3609,
+        "level": 96,
+        "main_reward_id": 11880,
+        "updated_at": "2022-03-03 09:38:54",
+        "z_battle_first_reward_set_id": 2566,
+        "z_battle_stage_id": 78
     }
 ]

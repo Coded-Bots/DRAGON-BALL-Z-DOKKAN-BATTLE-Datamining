@@ -88538,5 +88538,3615 @@
         "quantity": 1,
         "updated_at": "2022-02-19 20:20:08",
         "z_battle_first_reward_set_id": 2530
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11521,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2563
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11522,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2563
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11523,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2563
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11524,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2563
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11525,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2563
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11526,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2563
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11532,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2565
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11533,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2565
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11534,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2565
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11535,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2565
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11536,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2565
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11537,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2565
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11543,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2567
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11544,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 2,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2567
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11545,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 2,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2567
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11546,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 2,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2567
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11547,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 2,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2567
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11548,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 2,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2567
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11549,
+        "item_id": 1012230,
+        "item_type": "Card",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2568
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11550,
+        "item_id": 1012240,
+        "item_type": "Card",
+        "quantity": 1,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2568
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11556,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2570
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11557,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2570
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11558,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2570
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11559,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2570
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11560,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2570
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11561,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2570
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11567,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2572
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11568,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2572
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11569,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2572
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11570,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2572
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11571,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2572
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11572,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2572
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11578,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2574
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11579,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 3,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2574
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11580,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 3,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2574
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11581,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 3,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2574
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11582,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 3,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2574
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11583,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 3,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2574
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11589,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2576
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11590,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2576
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11591,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2576
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11592,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2576
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11593,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2576
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11594,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-25 13:22:16",
+        "z_battle_first_reward_set_id": 2576
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:16",
+        "id": 11600,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2578
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11601,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 50,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2578
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11602,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 50,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2578
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11603,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 50,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2578
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11604,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 50,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2578
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11605,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 50,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2578
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11611,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2580
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11612,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 4,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2580
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11613,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 4,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2580
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11614,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 4,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2580
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11615,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 4,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2580
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11616,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 4,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2580
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11622,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2582
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11623,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2582
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11624,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2582
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11625,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2582
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11626,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2582
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11627,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2582
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11633,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2584
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11634,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2584
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11635,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2584
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11636,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2584
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11637,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2584
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11638,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2584
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11644,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2586
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11645,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 5,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2586
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11646,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 5,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2586
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11647,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 5,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2586
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11648,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 5,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2586
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11649,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 5,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2586
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11655,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2588
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11656,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2588
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11657,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2588
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11658,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2588
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11659,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2588
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11660,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2588
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11666,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2590
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11667,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2590
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11668,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2590
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11669,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2590
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11670,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2590
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11671,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2590
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11677,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2592
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11678,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 6,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2592
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11679,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 6,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2592
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11680,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 6,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2592
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11681,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 6,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2592
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11682,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 6,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2592
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11688,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2594
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11689,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2594
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11690,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:17",
+        "z_battle_first_reward_set_id": 2594
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:17",
+        "id": 11691,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2594
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11692,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2594
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11693,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2594
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11699,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2596
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11700,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2596
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11701,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2596
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11702,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2596
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11703,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2596
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11704,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2596
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11710,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2598
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11711,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 7,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2598
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11712,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 7,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2598
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11713,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 7,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2598
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11714,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 7,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2598
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11715,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 7,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2598
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11721,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2600
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11722,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 140,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2600
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11723,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 140,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2600
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11724,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 140,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2600
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11725,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 140,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2600
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11726,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 140,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2600
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11732,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2602
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11733,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 90,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2602
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11734,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 90,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2602
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11735,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 90,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2602
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11736,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 90,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2602
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11737,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 90,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2602
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11743,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2604
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11744,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 8,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2604
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11745,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 8,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2604
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11746,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 8,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2604
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11747,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 8,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2604
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11748,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 8,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2604
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11754,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2606
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11755,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 150,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2606
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11756,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 150,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2606
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11757,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 150,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2606
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11758,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 150,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2606
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11759,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 150,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2606
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11765,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2608
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11766,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2608
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11767,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2608
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11768,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2608
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11769,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2608
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11770,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2608
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11776,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2610
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11777,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 9,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2610
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11778,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 9,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2610
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11779,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 9,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2610
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11780,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 9,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2610
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:18",
+        "id": 11781,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 9,
+        "updated_at": "2022-02-25 13:22:18",
+        "z_battle_first_reward_set_id": 2610
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11787,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2612
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11788,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 160,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2612
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11789,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 160,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2612
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11790,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 160,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2612
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11791,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 160,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2612
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11792,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 160,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2612
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11798,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2614
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11799,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2614
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11800,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2614
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11801,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2614
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11802,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2614
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11803,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2614
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11809,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2616
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11810,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 10,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2616
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11811,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 10,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2616
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11812,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 10,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2616
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11813,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 10,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2616
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11814,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 10,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2616
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11820,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2618
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11821,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2618
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11822,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2618
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11823,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2618
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11824,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2618
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11825,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2618
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11831,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2620
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11832,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2620
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11833,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2620
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11834,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2620
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11835,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2620
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11836,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2620
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11837,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2621
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11838,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2621
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11839,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2621
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11840,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2621
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11841,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2621
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11842,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2622
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11843,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2622
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11844,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2622
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11845,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2622
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11846,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2622
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11847,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2622
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11848,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 77,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11849,
+        "item_id": 1003970,
+        "item_type": "Card",
+        "quantity": 5,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 1500000,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11850,
+        "item_id": 1011481,
+        "item_type": "Card",
+        "quantity": 3,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11851,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11852,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11853,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11854,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11855,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11856,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11857,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11858,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11859,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11860,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11861,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11862,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11863,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11864,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-25 13:22:19",
+        "id": 11865,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 11,
+        "updated_at": "2022-02-25 13:22:19",
+        "z_battle_first_reward_set_id": 2623
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11875,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2564
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11876,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2564
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11877,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2564
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11878,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2564
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11879,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2564
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11880,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 2,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2566
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11881,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 2,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2566
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11882,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 2,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2566
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11883,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 2,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2566
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11884,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 2,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2566
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11885,
+        "item_id": 1012250,
+        "item_type": "Card",
+        "quantity": 1,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2568
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11886,
+        "item_id": 1012260,
+        "item_type": "Card",
+        "quantity": 1,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2568
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11887,
+        "item_id": 1012270,
+        "item_type": "Card",
+        "quantity": 1,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2568
+    },
+    {
+        "card_exp_init": 765122,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11888,
+        "item_id": 1005480,
+        "item_type": "Card",
+        "quantity": 3,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2568
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11889,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2569
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11890,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2569
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11891,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2569
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11892,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2569
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11893,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2569
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11894,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2571
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11895,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2571
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11896,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2571
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11897,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2571
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11898,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2571
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11899,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 3,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2573
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11900,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 3,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2573
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11901,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 3,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2573
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11902,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 3,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2573
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11903,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 3,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2573
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11904,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2575
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11905,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2575
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11906,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2575
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11907,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2575
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11908,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2575
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11909,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 50,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2577
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11910,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 50,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2577
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11911,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 50,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2577
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11912,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 50,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2577
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11913,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 50,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2577
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11914,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 4,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2579
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11915,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 4,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2579
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11916,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 4,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2579
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11917,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 4,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2579
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11918,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 4,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2579
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11919,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2581
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11920,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2581
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11921,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2581
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11922,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2581
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11923,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2581
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11924,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2583
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11925,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2583
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11926,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2583
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11927,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2583
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11928,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2583
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11929,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 5,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2585
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11930,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 5,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2585
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11931,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 5,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2585
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11932,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 5,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2585
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11933,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 5,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2585
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11934,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2587
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11935,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2587
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11936,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2587
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11937,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2587
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:09",
+        "id": 11938,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-28 02:35:09",
+        "z_battle_first_reward_set_id": 2587
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11939,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2589
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11940,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2589
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11941,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2589
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11942,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2589
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11943,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 70,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2589
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11944,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 6,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2591
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11945,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 6,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2591
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11946,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 6,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2591
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11947,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 6,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2591
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11948,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 6,
+        "updated_at": "2022-03-02 05:26:46",
+        "z_battle_first_reward_set_id": 2591
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11949,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2593
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11950,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2593
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11951,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2593
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11952,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2593
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11953,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2593
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11954,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2595
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11955,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2595
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11956,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2595
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11957,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2595
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11958,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 80,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2595
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11959,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 7,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2597
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11960,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 7,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2597
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11961,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 7,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2597
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11962,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 7,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2597
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11963,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 7,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2597
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11964,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 140,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2599
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11965,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 140,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2599
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11966,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 140,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2599
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11967,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 140,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2599
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11968,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 140,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2599
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11969,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 90,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2601
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11970,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 90,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2601
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11971,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 90,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2601
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11972,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 90,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2601
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11973,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 90,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2601
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11974,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 8,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2603
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11975,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 8,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2603
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11976,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 8,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2603
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11977,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 8,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2603
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11978,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 8,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2603
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11979,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 150,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2605
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11980,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 150,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2605
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11981,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 150,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2605
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11982,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 150,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2605
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11983,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 150,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2605
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11984,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2607
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11985,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2607
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11986,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2607
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11987,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2607
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11988,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 100,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2607
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11989,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 9,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2609
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11990,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 9,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2609
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11991,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 9,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2609
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11992,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 9,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2609
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11993,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 9,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2609
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11994,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 160,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2611
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11995,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 160,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2611
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11996,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 160,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2611
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11997,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 160,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2611
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11998,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 160,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2611
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 11999,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2613
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12000,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2613
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12001,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2613
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12002,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2613
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12003,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 110,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2613
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12004,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 10,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2615
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12005,
+        "item_id": 12,
+        "item_type": "PotentialItem",
+        "quantity": 10,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2615
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12006,
+        "item_id": 13,
+        "item_type": "PotentialItem",
+        "quantity": 10,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2615
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12007,
+        "item_id": 14,
+        "item_type": "PotentialItem",
+        "quantity": 10,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2615
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12008,
+        "item_id": 15,
+        "item_type": "PotentialItem",
+        "quantity": 10,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2615
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12009,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2617
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12010,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2617
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12011,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2617
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12012,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2617
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12013,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 170,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2617
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12014,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2619
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12015,
+        "item_id": 7,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2619
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12016,
+        "item_id": 8,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2619
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12017,
+        "item_id": 9,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2619
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 02:35:10",
+        "id": 12018,
+        "item_id": 10,
+        "item_type": "PotentialItem",
+        "quantity": 120,
+        "updated_at": "2022-02-28 02:35:10",
+        "z_battle_first_reward_set_id": 2619
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 07:15:38",
+        "id": 12019,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-28 07:15:38",
+        "z_battle_first_reward_set_id": 2562
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 07:15:38",
+        "id": 12020,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-28 07:15:38",
+        "z_battle_first_reward_set_id": 2562
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 07:15:38",
+        "id": 12021,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-28 07:15:38",
+        "z_battle_first_reward_set_id": 2562
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 07:15:38",
+        "id": 12022,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-28 07:15:38",
+        "z_battle_first_reward_set_id": 2562
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-02-28 07:15:38",
+        "id": 12023,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-02-28 07:15:38",
+        "z_battle_first_reward_set_id": 2562
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-02 05:26:46",
+        "id": 12024,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-03-02 05:56:30",
+        "z_battle_first_reward_set_id": 2568
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-02 05:56:31",
+        "id": 12025,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2022-03-02 05:56:31",
+        "z_battle_first_reward_set_id": 2624
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-02 05:56:31",
+        "id": 12026,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-03-02 05:56:31",
+        "z_battle_first_reward_set_id": 2624
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-02 05:56:31",
+        "id": 12027,
+        "item_id": 2,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-03-02 05:56:31",
+        "z_battle_first_reward_set_id": 2624
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-02 05:56:31",
+        "id": 12028,
+        "item_id": 3,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-03-02 05:56:31",
+        "z_battle_first_reward_set_id": 2624
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-02 05:56:31",
+        "id": 12029,
+        "item_id": 4,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-03-02 05:56:31",
+        "z_battle_first_reward_set_id": 2624
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2022-03-02 05:56:31",
+        "id": 12030,
+        "item_id": 5,
+        "item_type": "PotentialItem",
+        "quantity": 60,
+        "updated_at": "2022-03-02 05:56:31",
+        "z_battle_first_reward_set_id": 2624
     }
 ]
